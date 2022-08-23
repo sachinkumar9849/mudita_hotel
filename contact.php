@@ -15,7 +15,8 @@
       </div>
    </div>
 </section>
-<section class="contact padding bg_graylight right_bg position-relative">
+<a href="#room-details" class="scroll-down" address="true"></a>
+<section id="content_btn" class="contact padding bg_graylight right_bg position-relative">
    <div class="container">
       <div class="row">
          <div class="col-lg-6">

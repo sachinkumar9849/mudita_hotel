@@ -15,7 +15,8 @@
       </div>
    </div>
 </section>
-<section class="padding">
+<a href="#about_inner" class="scroll-down" address="true"></a>
+<section id="about_inner" class=" bg_imgfull img_bgcolor padding position-relative">
    <div class="container">
       <div class="row">
          <div class="col-md-6">
@@ -88,18 +89,16 @@
    </div>
 </section>
 
-<section id="room_section" class="padding position-relative">
+<section id="room_section" class="room_innerpage buddha_round yellow_bg padding  position-relative">
    <div class="container">
- 
       <div class="col-md-12">
-            <div class="section_title center_border  text-center">
-               <div class="float-text">
-                  <h1> OUR ROOMS</h1>
-               </div>
-               <h1>The Stay</h1>
-              
+         <div class="section_title center_border  text-center">
+            <div class="float-text">
+               <h1> OUR ROOMS</h1>
+            </div>
+            <h1>Related Rooms</h1>
          </div>
-         </div>
+      </div>
       <div class="row rooms-slider">
          <div class="col-lg-12">
             <div class="room_left right_room_date">
@@ -108,7 +107,7 @@
                </div>
                <div class="room_text">
                   <h3>Deluxe Room</h3>
-                  <div class="item-meta">
+                  <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
                   </div>
                   <div class="item_bottom position-relative">
@@ -117,10 +116,11 @@
                      </div>
                   </div>
                </div>
-               <div class="item_info_price">
-                  <label>From</label>
-                  <span class="item_info_price_new"><span class="currency_amount text-white" data-amount="153.00"><span class="currency_symbol">$</span>153.00</span></span>
-                  <span class="room_info_after_price text-white">/night</span>
+               <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+                  <strong>$15</strong>
+                  <small>Night</small>
+                  
+                  
                </div>
             </div>
          </div>
@@ -131,7 +131,7 @@
                </div>
                <div class="room_text">
                   <h3>Junior Room</h3>
-                  <div class="item-meta">
+                  <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
                   </div>
                   <div class="item_bottom position-relative">
@@ -140,10 +140,11 @@
                      </div>
                   </div>
                </div>
-               <div class="item_info_price">
-                  <label>From</label>
-                  <span class="item_info_price_new"><span class="currency_amount text-white" data-amount="153.00"><span class="currency_symbol">$</span>153.00</span></span>
-                  <span class="room_info_after_price text-white">/night</span>
+             <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+                  <strong>$15</strong>
+                  <small>Night</small>
+                  
+                  
                </div>
             </div>
          </div>
@@ -154,7 +155,7 @@
                </div>
                <div class="room_text">
                   <h3>Comfort Single </h3>
-                  <div class="item-meta">
+                  <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
                   </div>
                   <div class="item_bottom position-relative">
@@ -163,10 +164,11 @@
                      </div>
                   </div>
                </div>
-               <div class="item_info_price">
-                  <label>From</label>
-                  <span class="item_info_price_new"><span class="currency_amount text-white" data-amount="153.00"><span class="currency_symbol">$</span>153.00</span></span>
-                  <span class="room_info_after_price text-white">/night</span>
+             <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+                  <strong>$15</strong>
+                  <small>Night</small>
+                  
+                  
                </div>
             </div>
          </div>
@@ -177,7 +179,7 @@
                </div>
                <div class="room_text">
                   <h3>Mudita Suite</h3>
-                  <div class="item-meta">
+                  <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
                   </div>
                   <div class="item_bottom position-relative">
@@ -186,10 +188,11 @@
                      </div>
                   </div>
                </div>
-               <div class="item_info_price">
-                  <label>From</label>
-                  <span class="item_info_price_new"><span class="currency_amount text-white" data-amount="153.00"><span class="currency_symbol">$</span>153.00</span></span>
-                  <span class="room_info_after_price text-white">/night</span>
+             <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+                  <strong>$15</strong>
+                  <small>Night</small>
+                  
+                  
                </div>
             </div>
          </div>
@@ -200,7 +203,7 @@
                </div>
                <div class="room_text">
                   <h3>Suite Room</h3>
-                  <div class="item-meta">
+                  <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
                   </div>
                   <div class="item_bottom position-relative">
@@ -209,14 +212,14 @@
                      </div>
                   </div>
                </div>
-               <div class="item_info_price">
-                  <label>From</label>
-                  <span class="item_info_price_new"><span class="currency_amount text-white" data-amount="153.00"><span class="currency_symbol">$</span>153.00</span></span>
-                  <span class="room_info_after_price text-white">/night</span>
+               <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+                  <strong>$15</strong>
+                  <small>Night</small>
+                  
+                  
                </div>
             </div>
          </div>
-         
       </div>
    </div>
 </section>

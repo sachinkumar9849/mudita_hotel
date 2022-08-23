@@ -15,7 +15,8 @@
       </div>
    </div>
 </section>
-<section class="book-now contact padding bg_graylight right_bg position-relative">
+<a href="#book_now" class="scroll-down" address="true"></a>   
+<section id="book_now" class="book-now contact padding bg_graylight right_bg position-relative">
    <div class="container">
       <div class="row">
          <div class="col-lg-5">
@@ -60,7 +61,8 @@
          <div class="col-lg-7">
             <div class="right_side_box ">
                <form action="">
-                  <h3>Booking Detail</h3>
+                 <div class="booking_block">
+                 <h3>Booking</h3>
                   <div class="row">
                      <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                         <div class="mb-3 d-flex flex-column">
@@ -78,37 +80,25 @@
                   <div class="row">
                      <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                         <div class="mb-3 d-flex flex-column">
-                           <label  class="form-label">Adults</label>
-                           <select class="form-select">
-                              <option selected=""></option>
-                              <option value="1">One</option>
-                              <option value="2">Two</option>
-                              <option value="3">Three</option>
-                           </select>
+                           <label  class="form-label">Adult</label>
+                           <div class="div_input">
+                           <input class="form-control"  value="0" type="number">
+                        </div>
                         </div>
                      </div>
                      <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                         <div class="mb-3 d-flex flex-column">
-                           <label class="form-label">Childrens</label>
-                           <select class="form-select">
-                              <option selected=""></option>
-                              <option value="1">One</option>
-                              <option value="2">Two</option>
-                              <option value="3">Three</option>
-                           </select>
+                           <label class="form-label">Children</label>
+                           <div class="div_input">
+                           <input class="form-control"  value="0" type="number">
+                        </div>
                         </div>
                      </div>
                   </div>
-                  <div class="mb-3 d-flex flex-column">
-                     <label class="form-label">Day of Stay</label>
-                     <select class="form-select">
-                        <option selected=""></option>
-                        <option value="1">One</option>
-                        <option value="2">Two</option>
-                        <option value="3">Three</option>
-                     </select>
-                  </div>
-                  <h3>Personal Detail</h3>
+                 </div>
+                 
+              <div class="personal_block">
+              <h3>Personal </h3>
                   <div class="row">
                      <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                         <div class="mb-3 d-flex flex-column">
@@ -139,7 +129,8 @@
                   </div>
                   <label class="form-label">Message</label>
                   <textarea name="" id="" class="form-control"></textarea>
-                  <button type="submit" class="btn btn-secondary mt-5 mx-0 w-100 bg_darkred">Submit</button>
+                  <button type="submit" class="btn  mt-5 mx-0 w-100 bg-white text-dark">Submit</button>
+              </div>
                </form>
             </div>
          </div>

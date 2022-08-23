@@ -15,7 +15,7 @@
       </div>
    </div>
 </section>
-<section class="padding bg_graylight">
+<section class="padding bg_graylight right_bg position-relative">
    <div class="container">
    <div class="row">
       <div class="col-8">
@@ -28,8 +28,6 @@
       </div>
    </div>
    <div class="row">
-      <div class="col-md-8">
-         <div class="row">
             <div class="col-md-12 mb-4">
                <div class="testimonial_box bg-white p-4">
                   <div class="testimonial_box-inner">
@@ -151,8 +149,5 @@
                </div>
             </div>
          </div>
-      </div>
-      <?php include 'sidebar.php'; ?>
-   </div>
 </section>
 <?php include 'footer.php'; ?>

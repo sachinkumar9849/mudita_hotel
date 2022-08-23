@@ -15,261 +15,460 @@
       </div>
    </div>
 </section>
-<section class="padding right_bg position-relative">
+<section class="padding right_bg position-relative d-none">
    <div class="container">
-   <div class="row">
-      <div class="col-8 m-auto">
-         <div class="section_title center_border  text-center">
-            <div class="float-text">
-               <h1> Our Menu</h1>
-            </div>
-            <div class="w-75  m-auto">
-               <h1>Our Popular Dishes
-                  You Love It!
-               </h1>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud.</p>
-            </div>
-         </div>
-      </div>
-   </div>
-   <div class="row">
-      <div class="col-lg-4">
-         <div class="menu_wrapp position-relative">
-            <a href="">
-               <div class="img_category">
-                  <img src="images/dinner.jpg" alt="">
+      <div class="row">
+         <div class="col-lg-4">
+            <div class="menu_wrapp position-relative">
+               <a href="">
+                  <div class="img_category">
+                     <img src="images/dinner.jpg" alt="">
+                  </div>
+               </a>
+               <div class="menu_title  p-4 text-center">
+                  <h5> Dinner</h5>
                </div>
-            </a>
-            <div class="menu_title  p-4 text-center">
-               <h5> Dinner</h5>
             </div>
          </div>
-      </div>
-      <div class="col-lg-4">
-         <div class="menu_wrapp position-relative">
-            <a href="">
-               <div class="img_category">
-                  <img src="images/breakfast.jpg" alt="">
+         <div class="col-lg-4">
+            <div class="menu_wrapp position-relative">
+               <a href="">
+                  <div class="img_category">
+                     <img src="images/breakfast.jpg" alt="">
+                  </div>
+               </a>
+               <div class="menu_title  p-4 text-center">
+                  <h5> Breakfast</h5>
                </div>
-            </a>
-            <div class="menu_title  p-4 text-center">
-               <h5> Breakfast</h5>
             </div>
          </div>
-      </div>
-      <div class="col-lg-4">
-         <div class="menu_wrapp position-relative">
-            <a href="">
-               <div class="img_category">
-                  <img src="images/lunch.jpg" alt="">
+         <div class="col-lg-4">
+            <div class="menu_wrapp position-relative">
+               <a href="">
+                  <div class="img_category">
+                     <img src="images/lunch.jpg" alt="">
+                  </div>
+               </a>
+               <div class="menu_title  p-4 text-center">
+                  <h5> Lunch</h5>
                </div>
-            </a>
-            <div class="menu_title  p-4 text-center">
-               <h5> Lunch</h5>
             </div>
          </div>
       </div>
+      <!-- menu list start -->
+      <section class="menu ">
+         <div class="row">
+            <div class="col-md-6">
+               <a href="">
+                  <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                     <div class="icon_block text-center mr-4">
+                        <small>$19</small>
+                     </div>
+                     <div class="text_block d-flex flex-column justify-content-center">
+                        <div class="mb-2">
+                           <h3>Chicken Wings</h3>
+                        </div>
+                        <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                     </div>
+                  </div>
+               </a>
+            </div>
+            <div class="col-md-6">
+               <a href="">
+                  <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                     <div class="icon_block text-center mr-4">
+                        <small>$19</small>
+                     </div>
+                     <div class="text_block d-flex flex-column justify-content-center">
+                        <div class="mb-2">
+                           <h3>Snack Rolls</h3>
+                        </div>
+                        <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                     </div>
+                  </div>
+               </a>
+            </div>
+            <div class="col-md-6">
+               <a href="">
+                  <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                     <div class="icon_block text-center mr-4">
+                        <small>$19</small>
+                     </div>
+                     <div class="text_block d-flex flex-column justify-content-center">
+                        <div class="mb-2">
+                           <h3>Chicken Kofta</h3>
+                        </div>
+                        <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                     </div>
+                  </div>
+               </a>
+            </div>
+            <div class="col-md-6">
+               <a href="">
+                  <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                     <div class="icon_block text-center mr-4">
+                        <small>$19</small>
+                     </div>
+                     <div class="text_block d-flex flex-column justify-content-center">
+                        <div class="mb-2">
+                           <h3>Chicken Wings</h3>
+                        </div>
+                        <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                     </div>
+                  </div>
+               </a>
+            </div>
+            <div class="col-md-6">
+               <a href="">
+                  <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                     <div class="icon_block text-center mr-4">
+                        <small>$19</small>
+                     </div>
+                     <div class="text_block d-flex flex-column justify-content-center">
+                        <div class="mb-2">
+                           <h3>Chicken Wings</h3>
+                        </div>
+                        <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                     </div>
+                  </div>
+               </a>
+            </div>
+            <div class="col-md-6">
+               <a href="">
+                  <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                     <div class="icon_block text-center mr-4">
+                        <small>$19</small>
+                     </div>
+                     <div class="text_block d-flex flex-column justify-content-center">
+                        <div class="mb-2">
+                           <h3>Chicken Wings</h3>
+                        </div>
+                        <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                     </div>
+                  </div>
+               </a>
+            </div>
+         </div>
+      </section>
+      <!-- menu list end -->
    </div>
 </section>
-<section class="menu padding bg_graylight">
+<section class="padding bg_graylight">
    <div class="container">
-   <div class="row">
-      <div class="col-8 m-auto">
-         <div class="section_title center_border  text-center">
-            <div class="float-text">
-               <h1> Our Menu</h1>
-            </div>
-            <div class="w-75  m-auto">
-               <h1>Main Menu
-               </h1>
-               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud.</p>
-            </div>
-         </div>
-      </div>
-   </div>
-   <div class="row">
-      <div class="col-md-6">
-         <a href="">
-         <div class="div-wrapp d-flex bg-white p-4 mb-4">
-            <div class="icon_block text-center mr-4">
-               <small>$19</small>
-            </div>
-            <div class="text_block d-flex flex-column justify-content-center">
-               <div class="mb-2">
-                  <h3>Chicken Wings</h3>
+      <div class="row">
+         <div class="col-md-12">
+            <input class="checkbox-all" id="all" type="radio" name="checkbox" checked="" />
+            <input class="checkbox-js" id="js" type="radio" name="checkbox" />
+            <label for="js">
+               <div class="menu_wrapp position-relative">
+                  <div class="img_category">
+                     <img src="images/dinner.jpg" alt="">
+                  </div>
+                  <div class="menu_title  p-4 text-center">
+                     <h5>  Snack</h5>
+                  </div>
                </div>
-               <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-            </div>
-         </div>
-         </a>
-      </div>
-      <div class="col-md-6">
-         <a href="">
-         <div class="div-wrapp d-flex bg-white p-4 mb-4">
-            <div class="icon_block text-center mr-4">
-               <small>$19</small>
-            </div>
-            <div class="text_block d-flex flex-column justify-content-center">
-               <div class="mb-2">
-                  <h3>Snack Rolls</h3>
+            </label>
+            <input class="checkbox-react" id="react" type="radio" name="checkbox" />
+            <label for="react">
+               <div class="menu_wrapp position-relative">
+                  <div class="img_category">
+                     <img src="images/breakfast.jpg" alt="">
+                  </div>
+                  <div class="menu_title  p-4 text-center">
+                     <h5> Breakfast</h5>
+                  </div>
                </div>
-               <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-            </div>
-         </div>
-         </a>
-      </div>
-      <div class="col-md-6">
-         <a href="">
-         <div class="div-wrapp d-flex bg-white p-4 mb-4">
-            <div class="icon_block text-center mr-4">
-               <small>$19</small>
-            </div>
-            <div class="text_block d-flex flex-column justify-content-center">
-               <div class="mb-2">
-                  <h3>Chicken Kofta
-</h3>
+            </label>
+            <input class="checkbox-html" id="html" type="radio" name="checkbox" />
+            <label for="html">
+               <div class="menu_wrapp position-relative">
+                  <div class="img_category">
+                     <img src="images/lunch.jpg" alt="">
+                  </div>
+                  <div class="menu_title  p-4 text-center">
+                     <h5> Dinner</h5>
+                  </div>
                </div>
-               <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-            </div>
-         </div>
-         </a>
-      </div>
-      <div class="col-md-6">
-         <a href="">
-         <div class="div-wrapp d-flex bg-white p-4 mb-4">
-            <div class="icon_block text-center mr-4">
-               <small>$19</small>
-            </div>
-            <div class="text_block d-flex flex-column justify-content-center">
-               <div class="mb-2">
-                  <h3>Special Thali</h3>
+            </label>
+            <div class="seperator"></div>
+            <div class="cards mt-5">
+               <div class="project js">
+                  <section class="menu  mr-2">
+                     <div class="row">
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$43</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Chicken Wings</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$43</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Snack Rolls</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$43</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Chicken Kofta</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$43</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Chicken Wings</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$43</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Chicken Wings</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$43</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Chicken Wings</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+                  </section>
                </div>
-               <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-            </div>
-         </div>
-         </a>
-      </div>
-      <div class="col-md-6">
-         <a href="">
-         <div class="div-wrapp d-flex bg-white p-4 mb-4">
-            <div class="icon_block text-center mr-4">
-               <small>$19</small>
-            </div>
-            <div class="text_block d-flex flex-column justify-content-center">
-               <div class="mb-2">
-                  <h3>Baked Potato Pizza</h3>
+               <div class="project html">
+                  <section class="menu ">
+                     <div class="row">
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$75</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Snack Rolls</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$75</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Snack Rolls</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$75</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Snack Rolls</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$75</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Snack Rolls</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$75</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Snack Rolls</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$75</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Chicken Wings</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$75</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Chicken Wings</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$75</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Chicken Wings</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+                  </section>
                </div>
-               <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-            </div>
-         </div>
-         </a>
-      </div>
-      <div class="col-md-6">
-         <a href="">
-         <div class="div-wrapp d-flex bg-white p-4 mb-4">
-            <div class="icon_block text-center mr-4">
-               <small>$19</small>
-            </div>
-            <div class="text_block d-flex flex-column justify-content-center">
-               <div class="mb-2">
-                  <h3>Grilled Bruschetta</h3>
+               <div class="project react">
+                  <section class="menu ">
+                     <div class="row">
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$19</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Snack</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$19</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Chicken Wings</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                        <div class="col-md-6">
+                           <a href="">
+                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
+                                 <div class="icon_block text-center mr-4">
+                                    <small>$19</small>
+                                 </div>
+                                 <div class="text_block d-flex flex-column justify-content-center">
+                                    <div class="mb-2">
+                                       <h3>Chicken Wings</h3>
+                                    </div>
+                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
+                                 </div>
+                              </div>
+                           </a>
+                        </div>
+                     </div>
+                  </section>
                </div>
-               <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
             </div>
          </div>
-         </a>
       </div>
-      <div class="col-md-6">
-         <a href="">
-         <div class="div-wrapp d-flex bg-white p-4 mb-4">
-            <div class="icon_block text-center mr-4">
-               <small>$19</small>
-            </div>
-            <div class="text_block d-flex flex-column justify-content-center">
-               <div class="mb-2">
-                  <h3>Fried Lobster</h3>
-               </div>
-               <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-            </div>
-         </div>
-         </a>
-      </div>
-      <div class="col-md-6">
-         <a href="">
-         <div class="div-wrapp d-flex bg-white p-4 mb-4">
-            <div class="icon_block text-center mr-4">
-               <small>$19</small>
-            </div>
-            <div class="text_block d-flex flex-column justify-content-center">
-               <div class="mb-2">
-                  <h3>Chicken Wings</h3>
-               </div>
-               <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-            </div>
-         </div>
-         </a>
-      </div>
-      <div class="col-md-6">
-         <a href="">
-         <div class="div-wrapp d-flex bg-white p-4 mb-4">
-            <div class="icon_block text-center mr-4">
-               <small>$19</small>
-            </div>
-            <div class="text_block d-flex flex-column justify-content-center">
-               <div class="mb-2">
-                  <h3>Crispy Crust Pizza</h3>
-               </div>
-               <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-            </div>
-         </div>
-         </a>
-      </div>
-      <div class="col-md-6">
-         <a href="">
-         <div class="div-wrapp d-flex bg-white p-4 mb-4">
-            <div class="icon_block text-center mr-4">
-               <small>$19</small>
-            </div>
-            <div class="text_block d-flex flex-column justify-content-center">
-               <div class="mb-2">
-                  <h3>Chicken Wings</h3>
-               </div>
-               <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-            </div>
-         </div>
-         </a>
-      </div>
-      <div class="col-md-6">
-         <a href="">
-         <div class="div-wrapp d-flex bg-white p-4 mb-4">
-            <div class="icon_block text-center mr-4">
-               <small>$19</small>
-            </div>
-            <div class="text_block d-flex flex-column justify-content-center">
-               <div class="mb-2">
-                  <h3>Chicken Wings</h3>
-               </div>
-               <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-            </div>
-         </div>
-         </a>
-      </div>
-      <div class="col-md-6">
-         <a href="">
-         <div class="div-wrapp d-flex bg-white p-4 mb-4">
-            <div class="icon_block text-center mr-4">
-               <small>$19</small>
-            </div>
-            <div class="text_block d-flex flex-column justify-content-center">
-               <div class="mb-2">
-                  <h3>Chicken Wings</h3>
-               </div>
-               <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-            </div>
-         </div>
-         </a>
-      </div>
-      
    </div>
 </section>
 <?php include 'footer.php'; ?>

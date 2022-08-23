@@ -15,7 +15,9 @@
       </div>
    </div>
 </section>
-<section class="padding bg_graylight">
+
+<a href="#activities_page" class="scroll-down" address="true"></a>
+<section id="activities_page" class=" padding bg_graylight">
     <div class="container">
     <div class="row">
       <div class="col-12 ">
@@ -30,66 +32,76 @@
     </div>
     <div class="row">
         <div class="col-md-6">
+            <a class="text-dark" href="activities-detail.php">
             <div class="acvitities_block position-relative margin_right ">
                 <div class="img_block">
-                    <img src="images/activities/swimming.jpg" alt="">
+                    <img src="images/activities/children-playing.jpg" alt="">
                 </div>
-                <div class="text p-5 bg-white">
-                    <h5>WATER FUN</h5>
+                <div class="text p-4 bg-white">
+                    <h5>PLAYING</h5>
                     <div class="pt-3">
-                    <h4>Swimming Pool Fun</h4>
+                    <h4>Children Playing</h4>
                     </div>
                     <p>Lorem ipsum dolo quae vero temporibus deleniti illum provident repellat sit impedit blanditiis expedita at dolores eligendi velit maxime excepturi molestiae rem.</p>
                 </div>
             </div>
+            </a>
 
         </div>
         <div class="col-md-6">
-            <div class="acvitities_block position-relative margin_left">
+        <a class="text-dark" href="activities-detail.php">
+           <div class="acvitities_block position-relative margin_left">
                 <div class="img_block">
-                <img src="images/activities/yoga.jpg" alt="">
+                <img src="images/activities/butter.JPG" alt="">
                 </div>
-                <div class="text p-5 bg-white">
-                    <h5>HEALTH AND FITNESS</h5>
+                <div class="text p-4 bg-white">
+                    <h5>RESTAURANT</h5>
                     <div class="pt-3">
-                    <h4>Yoga & Fitness</h4>
+                    <h4>Butter &amp; Lounge</h4>
                     </div>
                     <p>Lorem ipsum dolo quae vero temporibus deleniti illum provident repellat sit impedit blanditiis expedita at dolores eligendi velit maxime excepturi molestiae rem.</p>
                 </div>
             </div>
+           </a>
 
         </div>
         <div class="col-md-6">
+        <a class="text-dark" href="activities-detail.php">
+          
             <div class="acvitities_block position-relative margin_right ">
                 <div class="img_block">
-                <img src="images/activities/traking.jpg" alt="">
+                <img src="images/stupa-nath.jpg" alt="">
                 </div>
-                <div class="text p-5 bg-white">
-                    <h5>ADVENTURE</h5>
+                <div class="text p-4 bg-white">
+                    <h5>STUPA</h5>
                     <div class="pt-3">
-                    <h4>Tracking Fun</h4>
+                    <h4>Baudha Stupa</h4>
                     </div>
                     <p>Lorem ipsum dolo quae vero temporibus deleniti illum provident repellat sit impedit blanditiis expedita at dolores eligendi velit maxime excepturi molestiae rem.</p>
                 </div>
             </div>
+
+            </a>
+          
 
         </div>
         <div class="col-md-6">
+        <a class="text-dark" href="activities-detail.php">
             <div class="acvitities_block position-relative margin_left">
                 <div class="img_block">
-                <img src="images/activities/cycling.jpg" alt="">
+                <img src="images/pashupati-nath-activity.jpg" alt="">
                 </div>
-                <div class="text p-5 bg-white">
-                    <h5>JUNGLE RIDE</h5>
+                <div class="text p-4 bg-white">
+                    <h5>TEMPLE</h5>
                     <div class="pt-3">
-                    <h4>Cycling Experience</h4>
+                    <h4>Pashupatinath</h4>
                     </div>
                     <p>Lorem ipsum dolo quae vero temporibus deleniti illum provident repellat sit impedit blanditiis expedita at dolores eligendi velit maxime excepturi molestiae rem.</p>
                 </div>
             </div>
-
+            </a>
         </div>
      
     </div>
-</section>
+</div></section>
 <?php include 'footer.php'; ?>

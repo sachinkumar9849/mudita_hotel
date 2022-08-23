@@ -15,31 +15,26 @@
       </div>
    </div>
 </section>
-<section class="right_bg position-relative room-page padding">
+<a href="#room-details" class="scroll-down" address="true"></a>
+<section id="room-details" class="position-relative padding">
    <div class="container">
       <div class="row">
-         <div class="col-12">
-            <div class="room_title">
-               <h1>Deluxe Room</h1>
-               <hr>
-               <div class="room_title_block d-flex justify-content-between align-items-center mb-3">
-                  <div class="room-title-price">
-                     <div class="price">
-                        <span>from</span>
-                        <span>$94.6</span>
-                        <span>night</span>
-                     </div>
-                  </div>
-                  <div class="room_button">
-                     <a class="btn third small_btn p-3 mb-4" href=""><span><span><i class="fa fa-calendar-check-o" aria-hidden="true"></i></span> Check Availability This Room</span></a>
-                  </div>
-               </div>
+         <div class="col-lg-8 col-md-6 col-12 m-auto">
+         <div class="room_des text-center">
+              
+               <p>Clean room with cozy bed, decorated with modern amenities to make our guest’s stay with us comfortable. Comfort rooms are approx. 210 sq ft. and equipped with shower and most of them with balcony overlooking hotel garden view. Each room is air conditioned and has a flat-screen TV with international TV channels, cozy 1 single size bed and spacious wardrobe.</p>
             </div>
          </div>
       </div>
+   </div>
+</section>
+
+<section class=" position-relative room-page ">
+   <div class="container-fluid p-0">
+     
       <div class="row">
          <div class="col-12">
-            <div class="slider-for mb-4">
+            <div class="slider-for ">
                <div class="room_slider-item">
                   <img src="images/comfort-single-room/room01.JPG" alt="">
                </div>
@@ -62,19 +57,27 @@
          
          </div>
       </div>
-      <div class="row">
-         <div class="col-lg-8 pl-1">
-            <div class="room_des">
-               <div class="title_border mb-4 ml-3">
-                  <h4>Description</h4>
-               </div>
-               <p>Clean room with cozy bed, decorated with modern amenities to make our guest’s stay with us comfortable. Comfort rooms are approx. 210 sq ft. and equipped with shower and most of them with balcony overlooking hotel garden view. Each room is air conditioned and has a flat-screen TV with international TV channels, cozy 1 single size bed and spacious wardrobe.</p>
+   
+   </div>
+</section>
+<section class="bg_imgfull img_bgcolor padding position-relative">
+   <div class="container">
+   <div class="row">
+        <div class="col-md-12">
+         <div class="section_title center_border  text-center">
+            <div class="float-text">
+               <h1>Facilities</h1>
             </div>
+            <h1>Facilities</h1>
+         </div>
+      </div>
+    </div>
+   <div class="row">
+         <div class="col-lg-6">
+           
             <div class="room_des">
-               <div class="title_border my-4 ml-3">
-                  <h4>Services</h4>
-               </div>
-               <div class="services_list">
+             
+               <div class="facilities_list services_list">
                   <ul>
                      <li><a href="#"><img src="images/services/Electricity Backup.png" aria-hidden="true">Electricity Backup</a></li>
                      <li><a href="#"><img src="images/services/king-size-bade.png" aria-hidden="true">King Size Bed</a></li>
@@ -91,36 +94,53 @@
                      <li><a href="#"><img src="images/services/individualRouter.png" aria-hidden="true">Individual Router</a></li>
                      <li><a href="#"><img src="images/services/waterBottle.png" aria-hidden="true">Water Bottle</a></li>
                      <li><a href="#"><img src="images/services/dailyhousekeeping.png" aria-hidden="true">Daily Housekeeping</a></li>
-                     <li><a href="#"><img src="images/services/tea-maker.png" aria-hidden="true">Tea / Coffee Maker</a></li>
-                     <li><a href="#"><img src="images/services/highspeedWiFi.png" aria-hidden="true">High Speed WiFi</a></li>
-                     <li><a href="#"><img src="images/services/led-tv.png" aria-hidden="true">LED TV</a></li>
-                     <li><a href="#"><img src="images/services/airconditioner.png" aria-hidden="true">Air Conditioner</a></li>
-                     <li><a href="#"><img src="images/services/hotcoldWater.png" aria-hidden="true">24hr Hot &amp; Cold Water</a></li>
-                     <li><a href="#"><img src="images/services/hrroomservice.png" aria-hidden="true">24 hr Room Service</a></li>
+                     
                   </ul>
                </div>
             </div>
-            <div class="room_des">
-               <div class="title_border mb-4 ml-3">
-                  <h4>Image</h4>
-               </div>
-              
-            </div>
+           
             
          </div>
-     
-        <?php include 'sidebar.php'; ?>
+         <div class="col-lg-6">
+            <div class="facilities_right d-flex align-items-center h-100 position-relative">
+               <img src="images/room-standard.jpg" alt="">
+            <div class="information_block">
+               <h4>Additional Information</h4>
+               <table class="table table-striped mb-0">
+                
+                  <tbody>
+                     <tr>
+                       
+                        <td>Room size:</td>
+                        <td>36 - 38 sq.m</td>
+                       
+                     </tr>
+                     <tr>
+                     <td>Bed(s):</td>
+                        <td>1 Double Bed or 2 Single Bed</td>
+                     </tr>
+                     <tr>
+                     <td>View:</td>
+                        <td>Garden</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </div>
+
+            </div>
+         </div>
+   
       </div>
    </div>
 </section>
-<section id="room_section" class=" padding bg_graylight position-relative">
+<section id="room_section" class="room_innerpage buddha_round yellow_bg padding  position-relative">
    <div class="container">
       <div class="col-md-12">
          <div class="section_title center_border  text-center">
             <div class="float-text">
                <h1> OUR ROOMS</h1>
             </div>
-            <h1>Other Rooms</h1>
+            <h1>Related Rooms</h1>
          </div>
       </div>
       <div class="row rooms-slider">
@@ -131,7 +151,7 @@
                </div>
                <div class="room_text">
                   <h3>Deluxe Room</h3>
-                  <div class="item-meta">
+                  <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
                   </div>
                   <div class="item_bottom position-relative">
@@ -140,10 +160,11 @@
                      </div>
                   </div>
                </div>
-               <div class="item_info_price">
-                  <label>From</label>
-                  <span class="item_info_price_new"><span class="currency_amount text-white" data-amount="153.00"><span class="currency_symbol">$</span>153.00</span></span>
-                  <span class="room_info_after_price text-white">/night</span>
+               <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+                  <strong>$15</strong>
+                  <small>Night</small>
+                  
+                  
                </div>
             </div>
          </div>
@@ -154,7 +175,7 @@
                </div>
                <div class="room_text">
                   <h3>Junior Room</h3>
-                  <div class="item-meta">
+                  <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
                   </div>
                   <div class="item_bottom position-relative">
@@ -163,10 +184,11 @@
                      </div>
                   </div>
                </div>
-               <div class="item_info_price">
-                  <label>From</label>
-                  <span class="item_info_price_new"><span class="currency_amount text-white" data-amount="153.00"><span class="currency_symbol">$</span>153.00</span></span>
-                  <span class="room_info_after_price text-white">/night</span>
+             <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+                  <strong>$15</strong>
+                  <small>Night</small>
+                  
+                  
                </div>
             </div>
          </div>
@@ -177,7 +199,7 @@
                </div>
                <div class="room_text">
                   <h3>Comfort Single </h3>
-                  <div class="item-meta">
+                  <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
                   </div>
                   <div class="item_bottom position-relative">
@@ -186,10 +208,11 @@
                      </div>
                   </div>
                </div>
-               <div class="item_info_price">
-                  <label>From</label>
-                  <span class="item_info_price_new"><span class="currency_amount text-white" data-amount="153.00"><span class="currency_symbol">$</span>153.00</span></span>
-                  <span class="room_info_after_price text-white">/night</span>
+             <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+                  <strong>$15</strong>
+                  <small>Night</small>
+                  
+                  
                </div>
             </div>
          </div>
@@ -200,7 +223,7 @@
                </div>
                <div class="room_text">
                   <h3>Mudita Suite</h3>
-                  <div class="item-meta">
+                  <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
                   </div>
                   <div class="item_bottom position-relative">
@@ -209,10 +232,11 @@
                      </div>
                   </div>
                </div>
-               <div class="item_info_price">
-                  <label>From</label>
-                  <span class="item_info_price_new"><span class="currency_amount text-white" data-amount="153.00"><span class="currency_symbol">$</span>153.00</span></span>
-                  <span class="room_info_after_price text-white">/night</span>
+             <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+                  <strong>$15</strong>
+                  <small>Night</small>
+                  
+                  
                </div>
             </div>
          </div>
@@ -223,7 +247,7 @@
                </div>
                <div class="room_text">
                   <h3>Suite Room</h3>
-                  <div class="item-meta">
+                  <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
                   </div>
                   <div class="item_bottom position-relative">
@@ -232,10 +256,11 @@
                      </div>
                   </div>
                </div>
-               <div class="item_info_price">
-                  <label>From</label>
-                  <span class="item_info_price_new"><span class="currency_amount text-white" data-amount="153.00"><span class="currency_symbol">$</span>153.00</span></span>
-                  <span class="room_info_after_price text-white">/night</span>
+               <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+                  <strong>$15</strong>
+                  <small>Night</small>
+                  
+                  
                </div>
             </div>
          </div>

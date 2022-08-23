@@ -15,7 +15,7 @@
    <a href="#" class="scroll-down" address="true"></a>
 </section>
 <!-- slider end  -->
-<section id="date_section" class="padding">
+<section id="date_section" class="">
    <div class="container">
       <form action="" class="date_section_block">
          <div class="row">
@@ -102,7 +102,7 @@
    </div>
 </section>
 <section id="about" class="position-relative">
-   <div class="container-fluid img_full_bg" style="background-image: url(images/pear-bg.jpg)">
+   <div class="container-fluid img_full_bg">
    </div>
    <div class="full_youtube">
       <div class="container">
@@ -124,7 +124,7 @@
       </div>
    </div>
 </section>
-<section id="room_section" class="padding position-relative">
+<section id="room_section" class="buddha_left buddha_round  padding position-relative">
    <div class="container">
       <div class="row">
          <div class="col-5">
@@ -154,7 +154,7 @@
                               <span class="room_info_after_price">/night</span>
                            </div>
                            <div class="room_button">
-                              <a class="btn third small_btn" href=""><span>View detail</span></a>
+                              <a href="deluxe-room.php" class="btn third small_btn" href=""><span>View detail</span></a>
                            </div>
                         </div>
                      </div>
@@ -176,7 +176,7 @@
                         </div>
                         <div class="item_bottom position-relative">
                            <div class="room_button">
-                              <a class="btn third small_btn" href=""><span>View detail</span></a>
+                              <a href="junior-room.php" class="btn third small_btn" href=""><span>View detail</span></a>
                            </div>
                         </div>
                      </div>
@@ -199,7 +199,7 @@
                         </div>
                         <div class="item_bottom position-relative">
                            <div class="room_button">
-                              <a class="btn third small_btn" href=""><span>View detail</span></a>
+                              <a href="comfort-single-room.php" class="btn third small_btn" href=""><span>View detail</span></a>
                            </div>
                         </div>
                      </div>
@@ -222,7 +222,7 @@
                         </div>
                         <div class="item_bottom position-relative">
                            <div class="room_button">
-                              <a class="btn third small_btn" href=""><span>View detail</span></a>
+                              <a href="mudita-suite.php" class="btn third small_btn" href=""><span>View detail</span></a>
                            </div>
                         </div>
                      </div>
@@ -246,7 +246,7 @@
                         </div>
                         <div class="item_bottom position-relative">
                            <div class="room_button">
-                              <a class="btn third small_btn" href=""><span>View detail</span></a>
+                              <a href="suite-room.php" class="btn third small_btn" href=""><span>View detail</span></a>
                            </div>
                         </div>
                      </div>
@@ -267,12 +267,27 @@
       <div class="row">
          <div class="col-md-12">
             <div id="img-container">
+              
                <div class="img_gallery_block">
                   <div class="img_gallery_single">
-                     <img src="images/campfire.jpg" class="img-expand">
+                     <img src="images/activities/children-playing.jpg" class="img-expand">
                   </div>
                   <div class="img_tallery_text text-center">
-                     <h1>Campfire</h1>
+                  <a href="activities.php">
+                     <h1>Children's Playground</h1>
+                     </a>
+                  </div>
+               </div>
+              
+               <div class="img_gallery_block">
+                  <div class="img_gallery_single">
+                     <img src="images/activities/butter.JPG" class="img-expand">
+                  </div>
+                  <div class="img_tallery_text text-center">
+                   
+                     <a href="activities.php">
+                     <h1>Butter Lounge</h1>
+                     </a>
                    
                   </div>
                </div>
@@ -281,8 +296,10 @@
                      <img src="images/stupa-nath.jpg" class="img-expand">
                   </div>
                   <div class="img_tallery_text text-center">
+                    
+                     <a href="activities.php">
                      <h1>Baudha Stupa</h1>
-                   
+                     </a>
                   </div>
                </div>
                <div class="img_gallery_block">
@@ -290,8 +307,10 @@
                      <img src="images/pashupati-nath-activity.jpg" class="img-expand">
                   </div>
                   <div class="img_tallery_text text-center">
-                     <h1>Pashupati Nath</h1>
                    
+                     <a href="activities.php">
+                     <h1>Pashupati Nath</h1>
+                     </a>
                   </div>
                </div>
             </div>
@@ -299,7 +318,7 @@
       </div>
    </div>
 </section>
-<section id="testimonial" class="padding position-relative">
+<section id="testimonial" class="bg_imgfull img_bgcolor padding position-relative">
    <div class="testimonial">
       <div class="container">
          <div class="row">
@@ -409,8 +428,7 @@
 </section>
 <section class="we-offer-area padding">
    <div class="container">
-      <!-- <div class="row">
-         </div> -->
+    
       <div class="row our-offer-items less-carousel">
          <div class="col-lg-4 d-flex align-items-center">
             <div class="section_title section_title_white text-left ">
@@ -481,7 +499,7 @@
       </div>
    </div>
 </section>
-<section id="news" class="padding">
+<section id="news" class="bg_imgfull img_bgcolor  padding position-relative">
    <div class="container">
       <div class="row">
          <div class="col-5 m-auto">
@@ -499,11 +517,9 @@
                </div>
                <div class="news_content p-3 bg-white">
                   <h4>NOVEMBER 28, 2018 </h4>
-                  <a href="">
-                     <h2>Enjoy the Spiritual Energy of Boudha Stupa</h2>
-                  </a>
+                  <h2>Enjoy the Spiritual Energy of Boudha Stupa</h2>
                   <div class="read_more">
-                     <a href="">Read More</a>
+                     <a href="blog-detail.php">Read More</a>
                   </div>
                </div>
             </div>
@@ -515,11 +531,9 @@
                </div>
                <div class="news_content p-3 bg-white">
                   <h4>NOVEMBER 28, 2018 </h4>
-                  <a href="#">
-                     <h2>Pashupatinath Temple</h2>
-                  </a>
+                  <h2>Pashupatinath Temple</h2>
                   <div class="read_more">
-                     <a href="">Read More</a>
+                     <a href="blog-detail.php">Read More</a>
                   </div>
                </div>
             </div>
@@ -531,11 +545,9 @@
                </div>
                <div class="news_content p-3 bg-white">
                   <h4>NOVEMBER 28, 2018 </h4>
-                  <a href="#">
-                     <h2>Government of Nepal launches second international airport</h2>
-                  </a>
+                  <h2>Government of Nepal launches second international airport</h2>
                   <div class="read_more">
-                     <a href="">Read More</a>
+                     <a href="blog-detail.php">Read More</a>
                   </div>
                </div>
             </div>

@@ -119,7 +119,7 @@
             <div class="float-text">
                <h1> OUR ROOMS</h1>
             </div>
-            <h1>Other Rooms</h1>
+            <h1>Related Rooms</h1>
          </div>
       </div>
       <div class="row rooms-slider">

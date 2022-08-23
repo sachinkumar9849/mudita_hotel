@@ -3,3 +3,21 @@
         margin-top: -26.4%;
     } */
 }
+@media (max-width: 1600px) {
+    /* .banner_img img {
+        height: 500px;
+    } */
+  
+}
+@media (max-width: 1444px) {
+
+   
+    section#slider {
+        height: 977px;
+    }
+    .simple-carousel ul li.slide {
+      
+        height: 977px;
+       
+    }
+}

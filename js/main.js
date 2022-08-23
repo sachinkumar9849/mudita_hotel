@@ -1,3 +1,5 @@
+
+// tab end 
 var btn = $('#button');
 
 $(window).scroll(function() {
@@ -721,7 +723,7 @@ $(document).ready(function() {
         speed: 600,
         margin:0,
         infinite: true,
-        slidesToShow: 2,
+        slidesToShow: 3,
         slidesToScroll: 1,
         arrows: false,
         dots: true,

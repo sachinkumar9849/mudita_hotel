@@ -1,9 +1,7 @@
 <div class="col-lg-4">
           
-          <div class="title_border  ">
-             <a class="btn third small_btn p-3  d-block" href="">Book Now</a>
-             </div>
-          <div class="deluxe-left-block position-relative mt-4  ">
+     
+          <div class="deluxe-left-block position-relative  ">
              <div class="deluxe-left-img position-relative box_shadow">
                 <img src="images/hotel-right-sidebar.JPG" class="img-fluid" alt="">
              </div>
