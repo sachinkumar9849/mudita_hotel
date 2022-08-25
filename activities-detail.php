@@ -19,7 +19,7 @@
 <section id="room-details" class="position-relative padding">
    <div class="container">
       <div class="row">
-         <div class="col-lg-8 col-md-6 col-12 m-auto">
+         <div class="col-lg-8 col-12 m-auto">
          <div class="room_des text-center">
               
                <p>One of the holiest Hindu shrines in Nepal, the Pashupatinath Temple is stretched across both the banks of the beautiful and sacred Bagmati River on the eastern fringes of the capital city of Kathmandu. The magnificent sanctum devoted to Lord Shiva draws in thousands of devotees who come to offer their prayers and seek blessings from him. Sprawled over a large area with temples and ashrams, it is believed that the Jyotirlinga housed in the Pashupatinath temple is the head of the body which is made up of the twelve Jyotirlinga in India. In 1979, the magnificent temple was declared a UNESCO World Heritage Site.</p>
@@ -80,7 +80,7 @@
                </div>
             </label>
             <input class="checkbox-html" id="html" type="radio" name="checkbox" />
-            <label for="html">
+            <label for="html" class="Dinner_width">
                <div class="menu_wrapp position-relative">
                   <div class="img_category">
                      <img src="images/lunch.jpg" alt="">
@@ -102,7 +102,7 @@
                                     <small>$43</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Chicken Wings</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -117,7 +117,7 @@
                                     <small>$43</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Snack Rolls</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -132,7 +132,7 @@
                                     <small>$43</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Chicken Kofta</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -147,7 +147,7 @@
                                     <small>$43</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Chicken Wings</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -162,7 +162,7 @@
                                     <small>$43</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Chicken Wings</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -177,7 +177,7 @@
                                     <small>$43</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Chicken Wings</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -198,7 +198,7 @@
                                     <small>$75</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Snack Rolls</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -213,7 +213,7 @@
                                     <small>$75</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Snack Rolls</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -228,7 +228,7 @@
                                     <small>$75</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Snack Rolls</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -243,7 +243,7 @@
                                     <small>$75</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Snack Rolls</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -258,7 +258,7 @@
                                     <small>$75</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Snack Rolls</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -273,7 +273,7 @@
                                     <small>$75</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Chicken Wings</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -288,7 +288,7 @@
                                     <small>$75</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Chicken Wings</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -303,7 +303,7 @@
                                     <small>$75</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Chicken Wings</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -324,7 +324,7 @@
                                     <small>$19</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Snack</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -339,7 +339,7 @@
                                     <small>$19</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Chicken Wings</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -354,7 +354,7 @@
                                     <small>$19</small>
                                  </div>
                                  <div class="text_block d-flex flex-column justify-content-center">
-                                    <div class="mb-2">
+                                    <div>
                                        <h3>Chicken Wings</h3>
                                     </div>
                                     <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
@@ -429,20 +429,20 @@
 <section class="booking-logo">
    <div class="container">
       <div class="row">
-         <div class="col-lg-3">
-            <a href="" class="logo_item" alt="#">
+         <div class="col-md-3 col-6">
+            <a href="" class="logo_item" alt="#" class="img-fluid">
             <img src="images/logo-agoda.png" alt="#" class="img-fluid">
             </a>
          </div>
-         <div class="col-lg-3">
+         <div class="col-md-3 col-6">
             <a href="" class="logo_item" target="_blank"><img src="images/logo-booking.png" alt="#" class="img-fluid"></a>
          </div>
-         <div class="col-lg-3">
-            <a href="" class="logo_item" alt="#">
+         <div class="col-md-3 col-6">
+            <a href="" class="logo_item" alt="#" class="img-fluid">
             <img src="images/logo-expedia.png" alt="#" class="img-fluid">
             </a>
          </div>
-         <div class="col-lg-3">
+         <div class="col-md-3 col-6">
             <a href="" class="logo_item" target="_blank"><img src="images/logo-tripadvisor.png" alt="#" class="img-fluid"></a>
          </div>
       </div>
@@ -451,13 +451,13 @@
 <section id="nepal_map" class="">
    <div class="container-fluid p-0">
       <div class="row no-gutters">
-         <div class="col-md-6 col-12">
+         <div class="col-lg-6 col-12">
             <div class="location-map w-100">
                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1485.0045619082164!2d85.36020775431875!3d27.718645335415847!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x92732b587280828!2sHotel%20Mudita!5e0!3m2!1sen!2snp!4v1658395836384!5m2!1sen!2snp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
          </div>
-         <div class="col-md-6 col-12 main_bg">
-            <div class="contact-info d-flex flex-column justify-content-center h-100 text-white">
+         <div class="col-lg-6 col-12 main_bg">
+            <div class="contact-info d-flex flex-column justify-content-center h-100 text-white py-lg-0 py-5">
                <div class="title">
                   <p>Information</p>
                   <h2>Contact Us</h2>
@@ -468,7 +468,7 @@
                   </div>
                  
                   <div class="email mb-3 text-white">
-                     <strong>Email:</strong> info@hotelmudita.com
+                     <strong>Email:</strong class=""> info@hotelmudita.com
                   </div>
                   <p> <strong>Call Directly:</strong> +977-01-4494334, +977-01-4494335</p>
                </div>

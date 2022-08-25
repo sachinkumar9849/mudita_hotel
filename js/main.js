@@ -649,21 +649,20 @@ jQuery(document).ready(function() {
     var smallWidth = (100 - bigWidth) / (imgs.length);
     var mouseSmalLWidth = (100 / imgs.length - 1);
     var normalWidth = (100 / imgs.length);
-    // var smallWidth =  (contWidth - bigWidth) / (imgs.length - 1);
+   
 
     console.log(smallWidth);
     console.log(bigWidth);
-    // console.log(imgs.length);
-    // console.log(contWidth);
+    
 
     jQuery('.img_gallery_block').mouseover(function() {
         jQuery(this).stop().animate({
-            // width: bigWidth+'%'
+          
             width: '70%'
         }, 600);
 
         jQuery(this).siblings().stop().animate({
-            // width: smallWidth+'%'
+           
             width: '15%'
         }, 600);
 
@@ -671,12 +670,12 @@ jQuery(document).ready(function() {
 
     jQuery('.img_gallery_block').mouseout(function() {
         jQuery(this).stop().animate({
-            // width: smallWidth+'%'
-            width: '34%'
+          
+            width: '44%'
         }, 600);
         jQuery(this).siblings().stop().animate({
-            // width: smallWidth+'%'
-            width: '34%'
+          
+            width: '44%'
         }, 600);
     })
 

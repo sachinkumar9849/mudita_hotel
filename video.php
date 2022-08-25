@@ -15,7 +15,8 @@
       </div>
    </div>
 </section>
-<section class="padding bg_graylight">
+<a href="#video_section" class="scroll-down" address="true"></a>
+<section id="video_section" class="padding bg_graylight">
    <div class="container">
    <div class="row">
       <div class="col-8">

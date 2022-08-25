@@ -59,15 +59,13 @@
             </div>
          </div>
          <div class="col-lg-6">
-            <div class="right_side_box box_shadow bg-white p-5">
+            <div class="right_side_box box_shadow bg-white p-lg-5 p-md-3 p-2 ">
                <div class="title_border mb-4">
                   <div class="">
                      <h1>
                Get In Location</h1>
                   </div>
-                  <div class="mt-4">
-                    
-                  </div>
+                 
                </div>
                <iframe class="w-100" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3531.9301248658276!2d85.35899791548218!3d27.719443631566193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb1bda176880f9%3A0x92732b587280828!2sHotel%20Mudita!5e0!3m2!1sen!2snp!4v1660647506922!5m2!1sen!2snp"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>

@@ -19,16 +19,16 @@
 <section id="about_inner" class=" bg_imgfull img_bgcolor padding position-relative">
    <div class="container">
       <div class="row">
-         <div class="col-md-6">
+         <div class="col-lg-6 col-12">
             <div class="images-column ">
-               <figure class="image-2 pr-5"><img src="images/about/about01.JPG" alt="Awesome Image"></figure>
+               <figure class="image-2 pr-lg-5 pr-0"><img src="images/about/about01.JPG" alt="Awesome Image"></figure>
                <figure class="image-3"><img src="images/about/about02.JPG" alt="Awesome Image"></figure>
             </div>
          </div>
-         <div class="col-md-6">
-            <div class="section_title ">
+         <div class="col-lg-6 col-12">
+            <div class="section_title paddingTop mb-lg-5 mb-0">
                <div class="float-text">
-                  <h1 > About Us</h1>
+                  <h1 > About</h1>
                </div>
                <h1>Stay in One of the Top Hotels</h1>
                <div class="readmore__content mb-4">
@@ -48,36 +48,36 @@
                Show more
                </button>
             </div>
-            <figure class="image position-relative"><img src="images/about/about03.JPG" alt="Awesome Image"></figure>
+            <figure class="image position-relative d-lg-block d-none"><img src="images/about/about03.JPG" alt="Awesome Image"></figure>
          </div>
       </div>
    </div>
 </section>
-<section class="about_bg_img padding img_bg " style="background-image: url(./images/about/about_bg.JPG);">
+<section class="about_bg_img padding img_bg position-relative" style="background-image: url(./images/about/about_bg.JPG);">
    <div class="container">
       <div class="row">
-         <div class="col-lg-3">
+         <div class="col-md-3 col-6 text-center mb-md-0 mb-3">
             <div id="counter-box" class="text-center text-white">
                <h3><span class="counter" data-number="
                   200"></span></h3>
                <h5>Rooms</h5>
             </div>
          </div>
-         <div class="col-lg-3">
+         <div class="col-md-3 col-6 text-center mb-md-0 mb-3">
             <div id="counter-box" class="text-center text-white">
                <h3><span class="counter" data-number="
             2340"></span></h3>
                <h5>STAFFS</h5>
             </div>
          </div>
-         <div class="col-lg-3">
+         <div class="col-md-3 col-6 text-center mb-md-0 mb-3">
             <div id="counter-box" class="text-center text-white">
                <h3><span class="counter" data-number="
             132"></span></h3>
                <h5>BARS</h5>
             </div>
          </div>
-         <div class="col-lg-3">
+         <div class="col-md-3 col-6 text-center mb-md-0 mb-3">
             <div id="counter-box" class="text-center text-white">
                <h3><span class="counter" data-number="
                100"></span></h3>
@@ -105,7 +105,7 @@
                <div class="room_let_img height_eqq">
                   <img class="" src="images/room/deluxe.jpg" alt="">
                </div>
-               <div class="room_text">
+               <div class="room_text bg-white">
                   <h3>Deluxe Room</h3>
                   <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
@@ -129,7 +129,7 @@
                <div class="room_let_img height_eqq">
                   <img class="" src="images/room/junior-room.jpg" alt="">
                </div>
-               <div class="room_text">
+               <div class="room_text bg-white">
                   <h3>Junior Room</h3>
                   <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
@@ -153,7 +153,7 @@
                <div class="room_let_img height_eqq">
                   <img class="" src="images/room-standard.jpg" alt="">
                </div>
-               <div class="room_text">
+               <div class="room_text bg-white">
                   <h3>Comfort Single </h3>
                   <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
@@ -177,7 +177,7 @@
                <div class="room_let_img height_eqq">
                   <img class="" src="images/room/mudita-suite.jpg" alt="">
                </div>
-               <div class="room_text">
+               <div class="room_text bg-white">
                   <h3>Mudita Suite</h3>
                   <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
@@ -201,7 +201,7 @@
                <div class="room_let_img height_eqq">
                   <img class="" src="images/room/suite-room.jpg" alt="">
                </div>
-               <div class="room_text">
+               <div class="room_text bg-white">
                   <h3>Suite Room</h3>
                   <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
@@ -226,13 +226,13 @@
 <section id="nepal_map" class="">
    <div class="container-fluid p-0">
       <div class="row no-gutters">
-         <div class="col-md-6 col-12">
+         <div class="col-lg-6 col-12">
             <div class="location-map w-100">
                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1485.0045619082164!2d85.36020775431875!3d27.718645335415847!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x92732b587280828!2sHotel%20Mudita!5e0!3m2!1sen!2snp!4v1658395836384!5m2!1sen!2snp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
          </div>
-         <div class="col-md-6 col-12 main_bg">
-            <div class="contact-info d-flex flex-column justify-content-center h-100 text-white">
+         <div class="col-lg-6 col-12 main_bg">
+            <div class="contact-info d-flex flex-column justify-content-center h-100 text-white py-lg-0 py-5">
                <div class="title">
                   <p>Information</p>
                   <h2>Contact Us</h2>
@@ -241,11 +241,9 @@
                   <div class="city-name">
                      <span>Boudhadwar Marga, Boudha Kathmandu </span>
                   </div>
-                  <!-- <div class="address">
-                     <p> Sanga, Banepa-13</p>
-                     </div> -->
+                 
                   <div class="email mb-3 text-white">
-                     <strong>Email:</strong> info@hotelmudita.com
+                     <strong>Email:</strong class=""> info@hotelmudita.com
                   </div>
                   <p> <strong>Call Directly:</strong> +977-01-4494334, +977-01-4494335</p>
                </div>

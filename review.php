@@ -15,10 +15,10 @@
       </div>
    </div>
 </section>
-<section class="padding bg_graylight right_bg position-relative">
+<section class="review_page padding bg_graylight right_bg position-relative">
    <div class="container">
    <div class="row">
-      <div class="col-8">
+      <div class="col-lg-8 col-md-10 col-12">
          <div class="section_title ">
             <div class="float-text">
                <h1> TESTIMONIALS</h1>
@@ -29,7 +29,7 @@
    </div>
    <div class="row">
             <div class="col-md-12 mb-4">
-               <div class="testimonial_box bg-white p-4">
+               <div class="testimonial_box bg-white p-lg-4 p-md-3 p-2">
                   <div class="testimonial_box-inner">
                      <div class="testimonial_box-top rounded-0">
                         <div class="testimonial_box-icon">
@@ -59,7 +59,7 @@
                </div>
             </div>
             <div class="col-md-12 mb-4">
-               <div class="testimonial_box bg-white p-4">
+               <div class="testimonial_box bg-white p-lg-4 p-md-3 p-2">
                   <div class="testimonial_box-inner">
                      <div class="testimonial_box-top rounded-0">
                         <div class="testimonial_box-icon">
@@ -89,7 +89,7 @@
                </div>
             </div>
             <div class="col-md-12 mb-4">
-               <div class="testimonial_box bg-white p-4">
+               <div class="testimonial_box bg-white p-lg-4 p-md-3 p-2">
                   <div class="testimonial_box-inner">
                      <div class="testimonial_box-top rounded-0">
                         <div class="testimonial_box-icon">
@@ -119,7 +119,7 @@
                </div>
             </div>
             <div class="col-md-12 mb-4">
-               <div class="testimonial_box bg-white p-4">
+               <div class="testimonial_box bg-white p-lg-4 p-md-3 p-2">
                   <div class="testimonial_box-inner">
                      <div class="testimonial_box-top rounded-0">
                         <div class="testimonial_box-icon">

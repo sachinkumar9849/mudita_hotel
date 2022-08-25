@@ -19,14 +19,14 @@
 <section id="blog_detail" class="blog padding bg_graylight right_bg position-relative">
    <div class="container">
       <div class="row">
-         <div class="col-md-8">
+         <div class="col-lg-8 col12">
             <div class="blog_wrapp mb-5">
-               <div class="blog_img pr-2">
+               <div class="blog_img pr-pr-2 pr-0">
                   <img src="images/boudhanath-banner.jpg" alt="">
                </div>
-               <div class="blog_content bg-white position-relative p-5 ml-5">
+               <div class="blog_content bg-white position-relative p-lg-5 p-lg-3 p-4 ml-lg-5 ml-0">
                   <h5>January 4, 2022</h5>
-                  <div class="py-4">
+                  <div class="py-lg-4 py-3">
                      <h4>Enjoy the Spiritual Energy of Boudha Stupa</h4>
                   </div>
                   <strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur consectetur perferendis quibusdam, odit voluptatibus, alias eaque aperiam incidunt eius nobis facere exercitationem deleniti vel totam explicabo similique dolore molestiae dicta.</strong>

@@ -30,7 +30,6 @@
       <section id="header">
          <div class="container-fluid">
             <div class="row">
-            
                <div class="col-md-12">
                   <div class="large_log">
                      <a href="index.php"><img src="images/logo.png" class="img-fluid" alt=""></a>
@@ -54,12 +53,12 @@
       <div id="cd-nav" class="cd-nav">
          <div class="cd-navigation-wrapper">
             <div class="cd-half-block ">
-               <div class="logo_block mb-5 pb-5">
+               <div class="logo_block mb-lg-5 mb-md-3 mb-0 pb-lg-5 pb-md-3 pb-0">
                   <a href="index.php"><img src="images/logo.png" class="responsive" alt="#"></a>
                </div>
                <nav>
                   <ul class="cd-primary-nav">
-                     <li><a href="about.php" class="selected">About Us</a></li>
+                     <li><a href="about.php" class="selected">About </a></li>
                    
                      <li class="position-relative inner_menu">
                         <a href="#0">Accommodation</a>
@@ -68,16 +67,16 @@
                               <a href="comfort-single-room.php">Comfort Single Room</a>
                            </li>
                            <li>
-                              <a href="junior-room.php">Junior Suite</a>
+                              <a href="comfort-single-room.php">Junior Suite</a>
                            </li>
                            <li>
-                              <a href="mudita-suite.php">Mudita Suite</a>
+                              <a href="comfort-single-room.php">Mudita Suite</a>
                          
                              <li>
-                              <a href="suite-room.php">Suite Room</a>
+                              <a href="comfort-single-room.php">Suite Room</a>
                            </li>
                              <li>
-                              <a href="deluxe-room.php">Deluxe Room</a>
+                              <a href="comfort-single-room.php">Deluxe Room</a>
                            </li>
                         </ul>
                      </li>
@@ -98,7 +97,7 @@
                            </li>
                         </ul>
                      </li>
-                     <li><a href="contact.php" class="selected">Contact Us</a></li>
+                     <li><a href="contact.php" class="selected">Contact </a></li>
                   </ul>
                </nav>
             </div>

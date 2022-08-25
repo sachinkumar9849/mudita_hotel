@@ -19,7 +19,7 @@
 <section id="room-details" class="position-relative padding">
    <div class="container">
       <div class="row">
-         <div class="col-lg-8 col-md-6 col-12 m-auto">
+         <div class="col-lg-8 col-12 m-auto">
          <div class="room_des text-center">
               
                <p>Clean room with cozy bed, decorated with modern amenities to make our guest’s stay with us comfortable. Comfort rooms are approx. 210 sq ft. and equipped with shower and most of them with balcony overlooking hotel garden view. Each room is air conditioned and has a flat-screen TV with international TV channels, cozy 1 single size bed and spacious wardrobe.</p>
@@ -92,7 +92,7 @@
                      <li><a href="#"><img src="images/services/iron.png" aria-hidden="true">Iron plus Board</a></li>
                      <li><a href="#"><img src="images/services/safetyLocker.png" aria-hidden="true">Safety Locker</a></li>
                      <li><a href="#"><img src="images/services/individualRouter.png" aria-hidden="true">Individual Router</a></li>
-                     <li><a href="#"><img src="images/services/waterBottle.png" aria-hidden="true">Water Bottle</a></li>
+             
                      <li><a href="#"><img src="images/services/dailyhousekeeping.png" aria-hidden="true">Daily Housekeeping</a></li>
                      
                   </ul>
@@ -102,8 +102,10 @@
             
          </div>
          <div class="col-lg-6">
-            <div class="facilities_right d-flex align-items-center h-100 position-relative">
+            <div class="facilities_right d-lg-flex d-block align-items-center h-100 position-relative mt-lg-0 mt-4">
+               <div class="informationbg_img">
                <img src="images/room-standard.jpg" alt="">
+               </div>
             <div class="information_block">
                <h4>Additional Information</h4>
                <table class="table table-striped mb-0">
@@ -149,7 +151,7 @@
                <div class="room_let_img height_eqq">
                   <img class="" src="images/room/deluxe.jpg" alt="">
                </div>
-               <div class="room_text">
+               <div class="room_text bg-white">
                   <h3>Deluxe Room</h3>
                   <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
@@ -173,7 +175,7 @@
                <div class="room_let_img height_eqq">
                   <img class="" src="images/room/junior-room.jpg" alt="">
                </div>
-               <div class="room_text">
+               <div class="room_text bg-white">
                   <h3>Junior Room</h3>
                   <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
@@ -197,7 +199,7 @@
                <div class="room_let_img height_eqq">
                   <img class="" src="images/room-standard.jpg" alt="">
                </div>
-               <div class="room_text">
+               <div class="room_text bg-white">
                   <h3>Comfort Single </h3>
                   <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
@@ -221,7 +223,7 @@
                <div class="room_let_img height_eqq">
                   <img class="" src="images/room/mudita-suite.jpg" alt="">
                </div>
-               <div class="room_text">
+               <div class="room_text bg-white">
                   <h3>Mudita Suite</h3>
                   <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
@@ -245,7 +247,7 @@
                <div class="room_let_img height_eqq">
                   <img class="" src="images/room/suite-room.jpg" alt="">
                </div>
-               <div class="room_text">
+               <div class="room_text bg-white">
                   <h3>Suite Room</h3>
                   <div class="item-meta pb-0">
                      <span class="item-acreage">135 sqm</span><span class="guests">Max. 4 guests</span> 
@@ -270,13 +272,13 @@
 <section id="nepal_map" class="">
    <div class="container-fluid p-0">
       <div class="row no-gutters">
-         <div class="col-md-6 col-12">
+         <div class="col-lg-6 col-12">
             <div class="location-map w-100">
                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1485.0045619082164!2d85.36020775431875!3d27.718645335415847!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x92732b587280828!2sHotel%20Mudita!5e0!3m2!1sen!2snp!4v1658395836384!5m2!1sen!2snp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
          </div>
-         <div class="col-md-6 col-12 main_bg">
-            <div class="contact-info d-flex flex-column justify-content-center h-100 text-white">
+         <div class="col-lg-6 col-12 main_bg">
+            <div class="contact-info d-flex flex-column justify-content-center h-100 text-white py-lg-0 py-5">
                <div class="title">
                   <p>Information</p>
                   <h2>Contact Us</h2>
@@ -287,7 +289,7 @@
                   </div>
                  
                   <div class="email mb-3 text-white">
-                     <strong>Email:</strong> info@hotelmudita.com
+                     <strong>Email:</strong class=""> info@hotelmudita.com
                   </div>
                   <p> <strong>Call Directly:</strong> +977-01-4494334, +977-01-4494335</p>
                </div>

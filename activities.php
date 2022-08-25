@@ -17,7 +17,7 @@
 </section>
 
 <a href="#activities_page" class="scroll-down" address="true"></a>
-<section id="activities_page" class=" padding bg_graylight">
+<section id="activities_page" class="buddha_left padding bg_graylight position-relative">
     <div class="container">
     <div class="row">
       <div class="col-12 ">
@@ -31,7 +31,7 @@
         </div>
     </div>
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-lg-6 ">
             <a class="text-dark" href="activities-detail.php">
             <div class="acvitities_block position-relative margin_right ">
                 <div class="img_block">
@@ -48,7 +48,7 @@
             </a>
 
         </div>
-        <div class="col-md-6">
+        <div class="col-lg-6 ">
         <a class="text-dark" href="activities-detail.php">
            <div class="acvitities_block position-relative margin_left">
                 <div class="img_block">
@@ -65,7 +65,7 @@
            </a>
 
         </div>
-        <div class="col-md-6">
+        <div class="col-lg-6 ">
         <a class="text-dark" href="activities-detail.php">
           
             <div class="acvitities_block position-relative margin_right ">
@@ -85,7 +85,7 @@
           
 
         </div>
-        <div class="col-md-6">
+        <div class="col-lg-6 ">
         <a class="text-dark" href="activities-detail.php">
             <div class="acvitities_block position-relative margin_left">
                 <div class="img_block">
