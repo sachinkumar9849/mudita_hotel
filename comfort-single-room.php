@@ -20,63 +20,56 @@
    <div class="container">
       <div class="row">
          <div class="col-lg-8 col-12 m-auto">
-         <div class="room_des text-center">
-              
+            <div class="room_des text-center">
                <p>Clean room with cozy bed, decorated with modern amenities to make our guest’s stay with us comfortable. Comfort rooms are approx. 210 sq ft. and equipped with shower and most of them with balcony overlooking hotel garden view. Each room is air conditioned and has a flat-screen TV with international TV channels, cozy 1 single size bed and spacious wardrobe.</p>
             </div>
          </div>
       </div>
    </div>
 </section>
-
 <section class=" position-relative room-page ">
    <div class="container-fluid p-0">
-     
       <div class="row">
          <div class="col-12">
             <div class="slider-for ">
                <div class="room_slider-item">
-                  <img src="images/comfort-single-room/room01.JPG" alt="">
+                  <img src="images/comfort-single-room/room01.jpg" alt="">
                </div>
                <div class="room_slider-item">
-                  <img src="images/comfort-single-room/room02.JPG" alt="">
+                  <img src="images/comfort-single-room/room02.jpg" alt="">
                </div>
                <div class="room_slider-item">
-                  <img src="images/comfort-single-room/room03.JPG" alt=""> 
+                  <img src="images/comfort-single-room/room03.jpg" alt=""> 
                </div>
                <div class="room_slider-item">
-                  <img src="images/comfort-single-room/room04.JPG" alt="">
+                  <img src="images/comfort-single-room/room04.jpg" alt="">
                </div>
                <div class="room_slider-item">
-                  <img src="images/comfort-single-room/room01.JPG" alt="">
+                  <img src="images/comfort-single-room/room01.jpg" alt="">
                </div>
                <div class="room_slider-item">
-                  <img src="images/comfort-single-room/room05.JPG" alt="">
+                  <img src="images/comfort-single-room/room05.jpg" alt="">
                </div>
             </div>
-         
          </div>
       </div>
-   
    </div>
 </section>
 <section class="bg_imgfull img_bgcolor padding position-relative">
    <div class="container">
-   <div class="row">
-        <div class="col-md-12">
-         <div class="section_title center_border  text-center">
-            <div class="float-text">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="section_title center_border  text-center">
+               <div class="float-text">
+                  <h1>Facilities</h1>
+               </div>
                <h1>Facilities</h1>
             </div>
-            <h1>Facilities</h1>
          </div>
       </div>
-    </div>
-   <div class="row">
+      <div class="row">
          <div class="col-lg-6">
-           
             <div class="room_des">
-             
                <div class="facilities_list services_list">
                   <ul>
                      <li><a href="#"><img src="images/services/Electricity Backup.png" aria-hidden="true">Electricity Backup</a></li>
@@ -92,46 +85,37 @@
                      <li><a href="#"><img src="images/services/iron.png" aria-hidden="true">Iron plus Board</a></li>
                      <li><a href="#"><img src="images/services/safetyLocker.png" aria-hidden="true">Safety Locker</a></li>
                      <li><a href="#"><img src="images/services/individualRouter.png" aria-hidden="true">Individual Router</a></li>
-             
                      <li><a href="#"><img src="images/services/dailyhousekeeping.png" aria-hidden="true">Daily Housekeeping</a></li>
-                     
                   </ul>
                </div>
             </div>
-           
-            
          </div>
          <div class="col-lg-6">
             <div class="facilities_right d-lg-flex d-block align-items-center h-100 position-relative mt-lg-0 mt-4">
                <div class="informationbg_img">
-               <img src="images/room-standard.jpg" alt="">
+                  <img src="images/room-standard.jpg" alt="">
                </div>
-            <div class="information_block">
-               <h4>Additional Information</h4>
-               <table class="table table-striped mb-0">
-                
-                  <tbody>
-                     <tr>
-                       
-                        <td>Room size:</td>
-                        <td>36 - 38 sq.m</td>
-                       
-                     </tr>
-                     <tr>
-                     <td>Bed(s):</td>
-                        <td>1 Double Bed or 2 Single Bed</td>
-                     </tr>
-                     <tr>
-                     <td>View:</td>
-                        <td>Garden</td>
-                     </tr>
-                  </tbody>
-               </table>
-            </div>
-
+               <div class="information_block">
+                  <h4>Additional Information</h4>
+                  <table class="table table-striped mb-0">
+                     <tbody>
+                        <tr>
+                           <td>Room size:</td>
+                           <td>36 - 38 sq.m</td>
+                        </tr>
+                        <tr>
+                           <td>Bed(s):</td>
+                           <td>1 Double Bed or 2 Single Bed</td>
+                        </tr>
+                        <tr>
+                           <td>View:</td>
+                           <td>Garden</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
             </div>
          </div>
-   
       </div>
    </div>
 </section>
@@ -165,8 +149,6 @@
                <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
                   <strong>$15</strong>
                   <small>Night</small>
-                  
-                  
                </div>
             </div>
          </div>
@@ -186,11 +168,9 @@
                      </div>
                   </div>
                </div>
-             <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+               <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
                   <strong>$15</strong>
                   <small>Night</small>
-                  
-                  
                </div>
             </div>
          </div>
@@ -210,11 +190,9 @@
                      </div>
                   </div>
                </div>
-             <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+               <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
                   <strong>$15</strong>
                   <small>Night</small>
-                  
-                  
                </div>
             </div>
          </div>
@@ -234,11 +212,9 @@
                      </div>
                   </div>
                </div>
-             <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+               <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
                   <strong>$15</strong>
                   <small>Night</small>
-                  
-                  
                </div>
             </div>
          </div>
@@ -261,8 +237,6 @@
                <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
                   <strong>$15</strong>
                   <small>Night</small>
-                  
-                  
                </div>
             </div>
          </div>
@@ -281,13 +255,12 @@
             <div class="contact-info d-flex flex-column justify-content-center h-100 text-white py-lg-0 py-5">
                <div class="title">
                   <p>Information</p>
-                  <h2>Contact Us</h2>
+                  <h2>Contact</h2>
                </div>
                <div class="con-address">
                   <div class="city-name">
                      <span>Boudhadwar Marga, Boudha Kathmandu </span>
                   </div>
-                 
                   <div class="email mb-3 text-white">
                      <strong>Email:</strong class=""> info@hotelmudita.com
                   </div>

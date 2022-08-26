@@ -5,7 +5,7 @@
          <div class="col-12">
             <div class="banner_block">
                <div class="banner_img">
-                  <img class="image_bg" src="images/banner/menu1.JPG" alt="">
+                  <img class="image_bg" src="images/banner/menu1.jpg" alt="">
                </div>
                <div class="banner text-white text-center">
                   <h2>Our Menu</h2>

@@ -28,126 +28,126 @@
       </div>
    </div>
    <div class="row">
-            <div class="col-md-12 mb-4">
-               <div class="testimonial_box bg-white p-lg-4 p-md-3 p-2">
-                  <div class="testimonial_box-inner">
-                     <div class="testimonial_box-top rounded-0">
-                        <div class="testimonial_box-icon">
-                           <i class="fas fa-quote-right"></i>
-                        </div>
-                        <div class="testimonial_box-text">
-                           <p>I have to recognize your outstanding hospitality and service that I receive on a daily basis. My room is always clean, fresh towels and linens are always present. Your staff makes me feel as If I am the only customer in your hotel. If you are looking for exclusivity and first class then look no further.</p>
-                        </div>
-                        <div class="testimonial_box-shape"></div>
-                     </div>
-                     <div class="testimonial_box-bottom">
-                        <div class="testimonial_box-profile">
-                           <div class="testimonial_box-img">
-                              <img src="https://i.ibb.co/hKgs8gm/profile.jpg" alt="profile">
-                           </div>
-                           <div class="testimonial_box-info">
-                              <div class="testimonial_box-name">
-                                 <h4>Anuja Shakya - </h4>
-                              </div>
-                              <div class="testimonial_box-job">
-                                 <p>MANAGER</p>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
+      <div class="col-md-12 mb-4">
+         <div class="testimonial_box bg-white p-lg-4 p-md-3 p-2">
+            <div class="testimonial_box-inner">
+               <div class="testimonial_box-top rounded-0">
+                  <div class="testimonial_box-icon">
+                     <i class="fas fa-quote-right"></i>
                   </div>
-               </div>
-            </div>
-            <div class="col-md-12 mb-4">
-               <div class="testimonial_box bg-white p-lg-4 p-md-3 p-2">
-                  <div class="testimonial_box-inner">
-                     <div class="testimonial_box-top rounded-0">
-                        <div class="testimonial_box-icon">
-                           <i class="fas fa-quote-right"></i>
-                        </div>
-                        <div class="testimonial_box-text">
-                           <p>I have to recognize your outstanding hospitality and service that I receive on a daily basis. My room is always clean, fresh towels and linens are always present. Your staff makes me feel as If I am the only customer in your hotel. If you are looking for exclusivity and first class then look no further.</p>
-                        </div>
-                        <div class="testimonial_box-shape"></div>
-                     </div>
-                     <div class="testimonial_box-bottom">
-                        <div class="testimonial_box-profile">
-                           <div class="testimonial_box-img">
-                              <img src="https://i.ibb.co/hKgs8gm/profile.jpg" alt="profile">
-                           </div>
-                           <div class="testimonial_box-info">
-                              <div class="testimonial_box-name">
-                                 <h4>Anuja Shakya - </h4>
-                              </div>
-                              <div class="testimonial_box-job">
-                                 <p>MANAGER</p>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
+                  <div class="testimonial_box-text">
+                     <p>I have to recognize your outstanding hospitality and service that I receive on a daily basis. My room is always clean, fresh towels and linens are always present. Your staff makes me feel as If I am the only customer in your hotel. If you are looking for exclusivity and first class then look no further.</p>
                   </div>
+                  <div class="testimonial_box-shape"></div>
                </div>
-            </div>
-            <div class="col-md-12 mb-4">
-               <div class="testimonial_box bg-white p-lg-4 p-md-3 p-2">
-                  <div class="testimonial_box-inner">
-                     <div class="testimonial_box-top rounded-0">
-                        <div class="testimonial_box-icon">
-                           <i class="fas fa-quote-right"></i>
-                        </div>
-                        <div class="testimonial_box-text">
-                           <p>I have to recognize your outstanding hospitality and service that I receive on a daily basis. My room is always clean, fresh towels and linens are always present. Your staff makes me feel as If I am the only customer in your hotel. If you are looking for exclusivity and first class then look no further.</p>
-                        </div>
-                        <div class="testimonial_box-shape"></div>
+               <div class="testimonial_box-bottom">
+                  <div class="testimonial_box-profile">
+                     <div class="testimonial_box-img">
+                        <img src="https://i.ibb.co/hKgs8gm/profile.jpg" alt="profile">
                      </div>
-                     <div class="testimonial_box-bottom">
-                        <div class="testimonial_box-profile">
-                           <div class="testimonial_box-img">
-                              <img src="https://i.ibb.co/hKgs8gm/profile.jpg" alt="profile">
-                           </div>
-                           <div class="testimonial_box-info">
-                              <div class="testimonial_box-name">
-                                 <h4>Anuja Shakya - </h4>
-                              </div>
-                              <div class="testimonial_box-job">
-                                 <p>MANAGER</p>
-                              </div>
-                           </div>
+                     <div class="testimonial_box-info">
+                        <div class="testimonial_box-name">
+                           <h4>Anuja Shakya - </h4>
                         </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-12 mb-4">
-               <div class="testimonial_box bg-white p-lg-4 p-md-3 p-2">
-                  <div class="testimonial_box-inner">
-                     <div class="testimonial_box-top rounded-0">
-                        <div class="testimonial_box-icon">
-                           <i class="fas fa-quote-right"></i>
-                        </div>
-                        <div class="testimonial_box-text">
-                           <p>I have to recognize your outstanding hospitality and service that I receive on a daily basis. My room is always clean, fresh towels and linens are always present. Your staff makes me feel as If I am the only customer in your hotel. If you are looking for exclusivity and first class then look no further.</p>
-                        </div>
-                        <div class="testimonial_box-shape"></div>
-                     </div>
-                     <div class="testimonial_box-bottom">
-                        <div class="testimonial_box-profile">
-                           <div class="testimonial_box-img">
-                              <img src="https://i.ibb.co/hKgs8gm/profile.jpg" alt="profile">
-                           </div>
-                           <div class="testimonial_box-info">
-                              <div class="testimonial_box-name">
-                                 <h4>Anuja Shakya - </h4>
-                              </div>
-                              <div class="testimonial_box-job">
-                                 <p>MANAGER</p>
-                              </div>
-                           </div>
+                        <div class="testimonial_box-job">
+                           <p>MANAGER</p>
                         </div>
                      </div>
                   </div>
                </div>
             </div>
          </div>
+      </div>
+      <div class="col-md-12 mb-4">
+         <div class="testimonial_box bg-white p-lg-4 p-md-3 p-2">
+            <div class="testimonial_box-inner">
+               <div class="testimonial_box-top rounded-0">
+                  <div class="testimonial_box-icon">
+                     <i class="fas fa-quote-right"></i>
+                  </div>
+                  <div class="testimonial_box-text">
+                     <p>I have to recognize your outstanding hospitality and service that I receive on a daily basis. My room is always clean, fresh towels and linens are always present. Your staff makes me feel as If I am the only customer in your hotel. If you are looking for exclusivity and first class then look no further.</p>
+                  </div>
+                  <div class="testimonial_box-shape"></div>
+               </div>
+               <div class="testimonial_box-bottom">
+                  <div class="testimonial_box-profile">
+                     <div class="testimonial_box-img">
+                        <img src="https://i.ibb.co/hKgs8gm/profile.jpg" alt="profile">
+                     </div>
+                     <div class="testimonial_box-info">
+                        <div class="testimonial_box-name">
+                           <h4>Anuja Shakya - </h4>
+                        </div>
+                        <div class="testimonial_box-job">
+                           <p>MANAGER</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="col-md-12 mb-4">
+         <div class="testimonial_box bg-white p-lg-4 p-md-3 p-2">
+            <div class="testimonial_box-inner">
+               <div class="testimonial_box-top rounded-0">
+                  <div class="testimonial_box-icon">
+                     <i class="fas fa-quote-right"></i>
+                  </div>
+                  <div class="testimonial_box-text">
+                     <p>I have to recognize your outstanding hospitality and service that I receive on a daily basis. My room is always clean, fresh towels and linens are always present. Your staff makes me feel as If I am the only customer in your hotel. If you are looking for exclusivity and first class then look no further.</p>
+                  </div>
+                  <div class="testimonial_box-shape"></div>
+               </div>
+               <div class="testimonial_box-bottom">
+                  <div class="testimonial_box-profile">
+                     <div class="testimonial_box-img">
+                        <img src="https://i.ibb.co/hKgs8gm/profile.jpg" alt="profile">
+                     </div>
+                     <div class="testimonial_box-info">
+                        <div class="testimonial_box-name">
+                           <h4>Anuja Shakya - </h4>
+                        </div>
+                        <div class="testimonial_box-job">
+                           <p>MANAGER</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <div class="col-md-12 mb-4">
+         <div class="testimonial_box bg-white p-lg-4 p-md-3 p-2">
+            <div class="testimonial_box-inner">
+               <div class="testimonial_box-top rounded-0">
+                  <div class="testimonial_box-icon">
+                     <i class="fas fa-quote-right"></i>
+                  </div>
+                  <div class="testimonial_box-text">
+                     <p>I have to recognize your outstanding hospitality and service that I receive on a daily basis. My room is always clean, fresh towels and linens are always present. Your staff makes me feel as If I am the only customer in your hotel. If you are looking for exclusivity and first class then look no further.</p>
+                  </div>
+                  <div class="testimonial_box-shape"></div>
+               </div>
+               <div class="testimonial_box-bottom">
+                  <div class="testimonial_box-profile">
+                     <div class="testimonial_box-img">
+                        <img src="https://i.ibb.co/hKgs8gm/profile.jpg" alt="profile">
+                     </div>
+                     <div class="testimonial_box-info">
+                        <div class="testimonial_box-name">
+                           <h4>Anuja Shakya - </h4>
+                        </div>
+                        <div class="testimonial_box-job">
+                           <p>MANAGER</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
 </section>
 <?php include 'footer.php'; ?>

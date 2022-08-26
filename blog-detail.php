@@ -30,23 +30,30 @@
                      <h4>Enjoy the Spiritual Energy of Boudha Stupa</h4>
                   </div>
                   <strong>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur consectetur perferendis quibusdam, odit voluptatibus, alias eaque aperiam incidunt eius nobis facere exercitationem deleniti vel totam explicabo similique dolore molestiae dicta.</strong>
-                  <div class="py-2"><p>Lorem ipsum dolor sit, amet consectetur adipisicing elitamet consectetur adipisicing elitamet consectetur adipisicing elit. Fugiat tenetur reiciendis facere repellat quam error magni quis labore est modi soluta veritatis nihil aspernatur quia, minima velit ex at ipsa!</p></div>
-                  <div class="py-2"><p>Lorem ipsum dolor sit, amet consectetur adipisicing elitamet consectetur adipisicing elitamet consectetur adipisicing elit. Fugiat tenetur reiciendis facere repellat quam error magni quis labore est modi soluta veritatis nihil aspernatur quia, minima velit ex at ipsa!</p></div>
-                  <div class="py-2"><p>Lorem ipsum dolor sit, amet consectetur adipisicing elitamet consectetur adipisicing elitamet consectetur adipisicing elit. Fugiat tenetur reiciendis facere repellat quam error magni quis labore est modi soluta veritatis nihil aspernatur quia, minima velit ex at ipsa!</p></div>
-                  <div class="py-2"><p>Lorem ipsum dolor sit, amet consectetur adipisicing elitamet consectetur adipisicing elitamet consectetur adipisicing elit. Fugiat tenetur reiciendis facere repellat quam error magni quis labore est modi soluta veritatis nihil aspernatur quia, minima velit ex at ipsa!</p></div>              
-                  
+                  <div class="py-2">
+                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elitamet consectetur adipisicing elitamet consectetur adipisicing elit. Fugiat tenetur reiciendis facere repellat quam error magni quis labore est modi soluta veritatis nihil aspernatur quia, minima velit ex at ipsa!</p>
+                  </div>
+                  <div class="py-2">
+                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elitamet consectetur adipisicing elitamet consectetur adipisicing elit. Fugiat tenetur reiciendis facere repellat quam error magni quis labore est modi soluta veritatis nihil aspernatur quia, minima velit ex at ipsa!</p>
+                  </div>
+                  <div class="py-2">
+                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elitamet consectetur adipisicing elitamet consectetur adipisicing elit. Fugiat tenetur reiciendis facere repellat quam error magni quis labore est modi soluta veritatis nihil aspernatur quia, minima velit ex at ipsa!</p>
+                  </div>
+                  <div class="py-2">
+                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elitamet consectetur adipisicing elitamet consectetur adipisicing elit. Fugiat tenetur reiciendis facere repellat quam error magni quis labore est modi soluta veritatis nihil aspernatur quia, minima velit ex at ipsa!</p>
+                  </div>
                   <div class="ul_link-social">
-                    <ul>
+                     <ul>
                         <li><a href=""><span><i class="fa fa-facebook-square" aria-hidden="true"></i>
-                    </span></a></li>
+                           </span></a>
+                        </li>
                         <li><a href=""><span><i class="fa fa-twitter-square" aria-hidden="true"></i>
-                    </span></a></li>
-                    </ul>
-                </div>
-                </div>
-                
+                           </span></a>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
             </div>
-           
          </div>
          <?php include 'sidebar.php'; ?>
       </div>

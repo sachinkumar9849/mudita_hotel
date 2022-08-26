@@ -20,18 +20,15 @@
    <div class="container">
       <div class="row">
          <div class="col-lg-8 col-12 m-auto">
-         <div class="room_des text-center">
-              
+            <div class="room_des text-center">
                <p>One of the holiest Hindu shrines in Nepal, the Pashupatinath Temple is stretched across both the banks of the beautiful and sacred Bagmati River on the eastern fringes of the capital city of Kathmandu. The magnificent sanctum devoted to Lord Shiva draws in thousands of devotees who come to offer their prayers and seek blessings from him. Sprawled over a large area with temples and ashrams, it is believed that the Jyotirlinga housed in the Pashupatinath temple is the head of the body which is made up of the twelve Jyotirlinga in India. In 1979, the magnificent temple was declared a UNESCO World Heritage Site.</p>
             </div>
          </div>
       </div>
    </div>
 </section>
-
 <section class=" position-relative room-page ">
    <div class="container-fluid p-0">
-     
       <div class="row">
          <div class="col-12">
             <div class="slider-for ">
@@ -44,326 +41,51 @@
                <div class="room_slider-item">
                   <img src="images/activities/pashupatinath03.jpg" alt=""> 
                </div>
-              
             </div>
-         
          </div>
       </div>
-   
    </div>
 </section>
-<section class="padding bg_graylight">
+<section class="activities_detais   padding position-relative">
    <div class="container">
       <div class="row">
          <div class="col-md-12">
-            <input class="checkbox-all" id="all" type="radio" name="checkbox" checked="" />
-            <input class="checkbox-js" id="js" type="radio" name="checkbox" />
-            <label for="js">
-               <div class="menu_wrapp position-relative">
-                  <div class="img_category">
-                     <img src="images/dinner.jpg" alt="">
-                  </div>
-                  <div class="menu_title  p-4 text-center">
-                     <h5>  Snack</h5>
-                  </div>
+            <div class="section_title center_border  text-center">
+               <div class="float-text">
+                  <h1>Facilities</h1>
                </div>
-            </label>
-            <input class="checkbox-react" id="react" type="radio" name="checkbox" />
-            <label for="react">
-               <div class="menu_wrapp position-relative">
-                  <div class="img_category">
-                     <img src="images/breakfast.jpg" alt="">
-                  </div>
-                  <div class="menu_title  p-4 text-center">
-                     <h5> Breakfast</h5>
-                  </div>
+               <h1>Facilities</h1>
+            </div>
+         </div>
+      </div>
+      <div class="row">
+         <div class="col-lg-6">
+            <div class="room_des">
+               <div class="mb-3">
+                  <h4>Include</h4>
                </div>
-            </label>
-            <input class="checkbox-html" id="html" type="radio" name="checkbox" />
-            <label for="html" class="Dinner_width">
-               <div class="menu_wrapp position-relative">
-                  <div class="img_category">
-                     <img src="images/lunch.jpg" alt="">
-                  </div>
-                  <div class="menu_title  p-4 text-center">
-                     <h5> Dinner</h5>
-                  </div>
+               <div class="facilities_list services_list">
+                  <ul>
+                     <li><a href="#"><img src="images/favicon.ico" aria-hidden="true">Airport picks up and drops off by car/van/bus</a></li>
+                     <li><a href="#"><img src="images/favicon.ico" aria-hidden="true">Hotel in Kathmandu with B/B plane. The hotel will be of your choice.</a></li>
+                     <li><a href="#"><img src="images/favicon.ico" aria-hidden="true">Highly experienced, helpful, and friendly Guide.</a></li>
+                     <li><a href="#"><img src="images/favicon.ico" aria-hidden="true">Ground transportation.</a></li>
+                     <li><a href="#"><img src="images/favicon.ico" aria-hidden="true">Nepal Government taxes.</a></li>
+                  </ul>
                </div>
-            </label>
-            <div class="seperator"></div>
-            <div class="cards mt-5">
-               <div class="project js">
-                  <section class="menu  mr-2">
-                     <div class="row">
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$43</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Chicken Wings</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$43</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Snack Rolls</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$43</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Chicken Kofta</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$43</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Chicken Wings</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$43</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Chicken Wings</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$43</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Chicken Wings</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                     </div>
-                  </section>
+            </div>
+         </div>
+         <div class="col-lg-6">
+            <div class="room_des">
+               <div class="mb-3">
+                  <h4>Excluded</h4>
                </div>
-               <div class="project html">
-                  <section class="menu ">
-                     <div class="row">
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$75</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Snack Rolls</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$75</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Snack Rolls</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$75</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Snack Rolls</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$75</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Snack Rolls</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$75</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Snack Rolls</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$75</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Chicken Wings</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$75</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Chicken Wings</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$75</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Chicken Wings</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                     </div>
-                  </section>
-               </div>
-               <div class="project react">
-                  <section class="menu ">
-                     <div class="row">
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$19</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Snack</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$19</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Chicken Wings</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                        <div class="col-md-6">
-                           <a href="">
-                              <div class="div-wrapp d-flex bg-white p-4 mb-4">
-                                 <div class="icon_block text-center mr-4">
-                                    <small>$19</small>
-                                 </div>
-                                 <div class="text_block d-flex flex-column justify-content-center">
-                                    <div>
-                                       <h3>Chicken Wings</h3>
-                                    </div>
-                                    <p>Asparagus, hens egg, toasted sunflower seeds, Spe-nwood cheese</p>
-                                 </div>
-                              </div>
-                           </a>
-                        </div>
-                     </div>
-                  </section>
+               <div class="facilities_list services_list">
+                  <ul>
+                     <li><a href="#"><img src="images/favicon.ico" aria-hidden="true">Sightseeing entry fees.</a></li>
+                     <li><a href="#"><img src="images/favicon.ico" aria-hidden="true">Donation and Tips.</a></li>
+                     <li><a href="#"><img src="images/favicon.ico" aria-hidden="true">Mineral water and bar bills.</a></li>
+                  </ul>
                </div>
             </div>
          </div>
@@ -375,28 +97,24 @@
       <div class="row">
          <div class="col-md-12">
             <div id="img-container">
-              
                <div class="img_gallery_block">
                   <div class="img_gallery_single">
                      <img src="images/activities/children-playing.jpg" class="img-expand">
                   </div>
                   <div class="img_tallery_text text-center">
-                  <a href="activities.php">
-                     <h1>Children's Playground</h1>
+                     <a href="activities.php">
+                        <h1>Children's Playground</h1>
                      </a>
                   </div>
                </div>
-              
                <div class="img_gallery_block">
                   <div class="img_gallery_single">
-                     <img src="images/activities/butter.JPG" class="img-expand">
+                     <img src="images/activities/butter.jpg" class="img-expand">
                   </div>
                   <div class="img_tallery_text text-center">
-                   
                      <a href="activities.php">
-                     <h1>Butter Lounge</h1>
+                        <h1>Butter Lounge</h1>
                      </a>
-                   
                   </div>
                </div>
                <div class="img_gallery_block">
@@ -404,9 +122,8 @@
                      <img src="images/stupa-nath.jpg" class="img-expand">
                   </div>
                   <div class="img_tallery_text text-center">
-                    
                      <a href="activities.php">
-                     <h1>Baudha Stupa</h1>
+                        <h1>Baudha Stupa</h1>
                      </a>
                   </div>
                </div>
@@ -415,9 +132,8 @@
                      <img src="images/pashupati-nath-activity.jpg" class="img-expand">
                   </div>
                   <div class="img_tallery_text text-center">
-                   
                      <a href="activities.php">
-                     <h1>Pashupati Nath</h1>
+                        <h1>Pashupati Nath</h1>
                      </a>
                   </div>
                </div>
@@ -460,13 +176,12 @@
             <div class="contact-info d-flex flex-column justify-content-center h-100 text-white py-lg-0 py-5">
                <div class="title">
                   <p>Information</p>
-                  <h2>Contact Us</h2>
+                  <h2>Contact</h2>
                </div>
                <div class="con-address">
                   <div class="city-name">
                      <span>Boudhadwar Marga, Boudha Kathmandu </span>
                   </div>
-                 
                   <div class="email mb-3 text-white">
                      <strong>Email:</strong class=""> info@hotelmudita.com
                   </div>

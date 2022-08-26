@@ -1102,11 +1102,13 @@ top: 14%;
 left: 0;
 }
 section#about::before {
-top: 0;
-height: 100%;
-background-image: url(../images/buddha-bg.jpg);
-z-index: 1;
-left: 70%;
+    height: 82%;
+    background-image: url(../images/buddha-bg.jpg);
+    z-index: 1;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    width: 584px;
 }
 .embed-responsive.embed-responsive-4by3 {
 height: 500px;
@@ -1932,4 +1934,13 @@ section.about_bg_img::before {
 }
 section.review_page .testimonial_box-top ,section.review_page .testimonial_box-shape{
     background: #edf0f5;
+}
+div#counter-box h5 {
+    text-transform: uppercase;
+}
+section.activities_detais .facilities_list li {
+    width: 100%;
+}
+section.activities_detais .facilities_list li{
+    margin-bottom: 15px;
 }

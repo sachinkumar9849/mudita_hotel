@@ -61,82 +61,80 @@
          <div class="col-lg-7">
             <div class="right_side_box ">
                <form action="">
-                 <div class="booking_block">
-                 <h3>Booking</h3>
-                  <div class="row">
-                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                        <div class="mb-3 d-flex flex-column">
-                           <label  class="form-label">Arrival Date</label>
-                           <input type="date" class="form-control" >
+                  <div class="booking_block">
+                     <h3>Booking</h3>
+                     <div class="row">
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                           <div class="mb-3 d-flex flex-column">
+                              <label  class="form-label">Arrival Date</label>
+                              <input type="date" class="form-control" >
+                           </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                           <div class="mb-3 d-flex flex-column">
+                              <label class="form-label">Depature Date</label>
+                              <input type="date" class="form-control" >
+                           </div>
                         </div>
                      </div>
-                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                        <div class="mb-3 d-flex flex-column">
-                           <label class="form-label">Depature Date</label>
-                           <input type="date" class="form-control" >
+                     <div class="row">
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                           <div class="mb-3 d-flex flex-column">
+                              <label  class="form-label">Adult</label>
+                              <div class="div_input">
+                                 <input class="form-control"  value="0" type="number">
+                              </div>
+                           </div>
                         </div>
-                     </div>
-                  </div>
-                  <div class="row">
-                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                        <div class="mb-3 d-flex flex-column">
-                           <label  class="form-label">Adult</label>
-                           <div class="div_input">
-                           <input class="form-control"  value="0" type="number">
-                        </div>
-                        </div>
-                     </div>
-                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                        <div class="mb-3 d-flex flex-column">
-                           <label class="form-label">Children</label>
-                           <div class="div_input">
-                           <input class="form-control"  value="0" type="number">
-                        </div>
-                        </div>
-                     </div>
-                  </div>
-                 </div>
-                 
-              <div class="personal_block">
-              <h3>Personal </h3>
-                  <div class="row">
-                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                        <div class="mb-3 d-flex flex-column">
-                           <label  class="form-label">Name</label>
-                           <input type="text" class="form-control" >
-                        </div>
-                     </div>
-                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                        <div class="mb-3 d-flex flex-column">
-                           <label  class="form-label">Address</label>
-                           <input type="text" class="form-control" >
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                           <div class="mb-3 d-flex flex-column">
+                              <label class="form-label">Children</label>
+                              <div class="div_input">
+                                 <input class="form-control"  value="0" type="number">
+                              </div>
+                           </div>
                         </div>
                      </div>
                   </div>
-                  <div class="row">
-                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                        <div class="mb-3 d-flex flex-column">
-                           <label class="form-label">Contact No.</label>
-                           <input type="tel" class="form-control">
+                  <div class="personal_block">
+                     <h3>Personal </h3>
+                     <div class="row">
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                           <div class="mb-3 d-flex flex-column">
+                              <label  class="form-label">Name</label>
+                              <input type="text" class="form-control" >
+                           </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                           <div class="mb-3 d-flex flex-column">
+                              <label  class="form-label">Address</label>
+                              <input type="text" class="form-control" >
+                           </div>
                         </div>
                      </div>
-                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
-                        <div class="mb-3 d-flex flex-column">
-                           <label  class="form-label">Email</label>
-                           <input type="email" class="form-control" id="">
+                     <div class="row">
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                           <div class="mb-3 d-flex flex-column">
+                              <label class="form-label">Contact No.</label>
+                              <input type="tel" class="form-control">
+                           </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                           <div class="mb-3 d-flex flex-column">
+                              <label  class="form-label">Email</label>
+                              <input type="email" class="form-control" id="">
+                           </div>
                         </div>
                      </div>
+                     <label class="form-label">Message</label>
+                     <textarea name="" id="" class="form-control"></textarea>
+                     <button type="submit" class="btn  mt-5 mx-0 w-100 bg-white text-dark">Submit</button>
                   </div>
-                  <label class="form-label">Message</label>
-                  <textarea name="" id="" class="form-control"></textarea>
-                  <button type="submit" class="btn  mt-5 mx-0 w-100 bg-white text-dark">Submit</button>
-              </div>
                </form>
             </div>
          </div>
       </div>
    </div>
 </section>
-<section>
-</section>
+<section></section>
 <?php include 'footer.php'; ?>

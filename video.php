@@ -18,15 +18,15 @@
 <a href="#video_section" class="scroll-down" address="true"></a>
 <section id="video_section" class="padding bg_graylight">
    <div class="container">
-   <div class="row">
-      <div class="col-8">
-         <div class="section_title ">
-            <div class="float-text">
-               <h1> Video Gallery </h1>
+      <div class="row">
+         <div class="col-8">
+            <div class="section_title ">
+               <div class="float-text">
+                  <h1> Video Gallery </h1>
+               </div>
+               <h1>Checkout Our Video</h1>
             </div>
-            <h1>Checkout Our Video</h1>
          </div>
-      </div>
       </div>
       <div class="row">
          <div class="col-lg-8">

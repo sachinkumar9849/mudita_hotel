@@ -3,7 +3,7 @@
 <section id="slider">
    <div class="simple-carousel">
       <a href="#" class="control_next"><i class="fa fa-chevron-right"></i></a>
-   <a href="#" class="control_prev"><i class="fa fa-chevron-left"></i></a>
+      <a href="#" class="control_prev"><i class="fa fa-chevron-left"></i></a>
       <ul>
          <li class="slide" style="background-image: url('images/slider00.jpg');"></li>
          <li class="slide" style="background-image: url('images/slider01.jpg');"></li>
@@ -233,7 +233,6 @@
                      </div>
                   </div>
                </div>
-              
                <div class="col-md-6">
                   <div class="room_left margin_buttom right_room_date">
                      <div class="room_let_img height_eqq">
@@ -267,28 +266,24 @@
       <div class="row">
          <div class="col-md-12">
             <div id="img-container">
-              
                <div class="img_gallery_block">
                   <div class="img_gallery_single">
                      <img src="images/activities/children-playing.jpg" class="img-expand">
                   </div>
                   <div class="img_tallery_text text-center">
-                  <a href="activities.php">
-                     <h1>Children's Playground</h1>
+                     <a href="activities.php">
+                        <h1>Children's Playground</h1>
                      </a>
                   </div>
                </div>
-              
                <div class="img_gallery_block">
                   <div class="img_gallery_single">
-                     <img src="images/activities/butter.JPG" class="img-expand">
+                     <img src="images/activities/butter.jpg" class="img-expand">
                   </div>
                   <div class="img_tallery_text text-center">
-                   
                      <a href="activities.php">
-                     <h1>Butter Lounge</h1>
+                        <h1>Butter Lounge</h1>
                      </a>
-                   
                   </div>
                </div>
                <div class="img_gallery_block">
@@ -296,9 +291,8 @@
                      <img src="images/stupa-nath.jpg" class="img-expand">
                   </div>
                   <div class="img_tallery_text text-center">
-                    
                      <a href="activities.php">
-                     <h1>Baudha Stupa</h1>
+                        <h1>Baudha Stupa</h1>
                      </a>
                   </div>
                </div>
@@ -307,9 +301,8 @@
                      <img src="images/pashupati-nath-activity.jpg" class="img-expand">
                   </div>
                   <div class="img_tallery_text text-center">
-                   
                      <a href="activities.php">
-                     <h1>Pashupati Nath</h1>
+                        <h1>Pashupati Nath</h1>
                      </a>
                   </div>
                </div>
@@ -428,7 +421,6 @@
 </section>
 <section class="we-offer-area padding">
    <div class="container">
-    
       <div class="row our-offer-items less-carousel">
          <div class="col-lg-4 d-flex align-items-center">
             <div class="section_title section_title_white text-left ">
@@ -445,9 +437,9 @@
                         <img src="images/services/wifi.png" class="responsive">
                      </div>
                      <div class="service_text ml-4">
-                       <div class="mb-2">
-                       <h4>Free Wifi</h4>
-                       </div>
+                        <div class="mb-2">
+                           <h4>Free Wifi</h4>
+                        </div>
                         <p>We provide 24/7 free Wi-Fi for your comfort stay in our Hotel.</p>
                      </div>
                   </div>
@@ -458,8 +450,8 @@
                         <img src="images/services/parking.png" class="responsive">
                      </div>
                      <div class="service_text ml-4">
-                     <div class="mb-2">
-                        <h4>Parking</h4>
+                        <div class="mb-2">
+                           <h4>Parking</h4>
                         </div>
                         <p>We have sufficient and safe parking area in the compound of Hotel.</p>
                      </div>
@@ -471,11 +463,10 @@
                         <img src="images/services/online-book.png" class="responsive">
                      </div>
                      <div class="service_text ml-4">
-                     <div class="mb-2">
-
-                        <h4>Room Booking</h4>
-                        <p>First come first serve is the best policy to book your stay with us.</p>
-                     </div>
+                        <div class="mb-2">
+                           <h4>Room Booking</h4>
+                           <p>First come first serve is the best policy to book your stay with us.</p>
+                        </div>
                      </div>
                   </div>
                </div>
@@ -485,11 +476,10 @@
                         <img src="images/services/dish.png" class="responsive">
                      </div>
                      <div class="service_text ml-4">
-                     <div class="mb-2">
-
-                        <h4>Delicious Food</h4>
-                        <p>We cook the hygienic and healthy food in resort, which you want to order.</p>
-                     </div>
+                        <div class="mb-2">
+                           <h4>Delicious Food</h4>
+                           <p>We cook the hygienic and healthy food in resort, which you want to order.</p>
+                        </div>
                      </div>
                   </div>
                </div>
@@ -499,11 +489,10 @@
                         <img src="images/services/conference.png" class="responsive">
                      </div>
                      <div class="service_text ml-4">
-                     <div class="mb-2">
-
-                        <h4>Child Play Room</h4>
-                        <p>We have indoor game tools of children, they will use it in the hotel.</p>
-                     </div>
+                        <div class="mb-2">
+                           <h4>Child Play Room</h4>
+                           <p>We have indoor game tools of children, they will use it in the hotel.</p>
+                        </div>
                      </div>
                   </div>
                </div>
@@ -602,13 +591,12 @@
             <div class="contact-info d-flex flex-column justify-content-center h-100 text-white py-lg-0 py-5">
                <div class="title">
                   <p>Information</p>
-                  <h2>Contact Us</h2>
+                  <h2>Contact</h2>
                </div>
                <div class="con-address">
                   <div class="city-name">
                      <span>Boudhadwar Marga, Boudha Kathmandu </span>
                   </div>
-                 
                   <div class="email mb-3 text-white">
                      <strong>Email:</strong class=""> info@hotelmudita.com
                   </div>

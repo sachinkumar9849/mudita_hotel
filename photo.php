@@ -18,15 +18,15 @@
 <a href="#photo_section" class="scroll-down" address="true"></a>
 <section id="photo_section" class="padding bg_graylight">
    <div class="container">
-   <div class="row">
-      <div class="col-8">
-         <div class="section_title ">
-            <div class="float-text">
-               <h1> Photo Gallery </h1>
+      <div class="row">
+         <div class="col-8">
+            <div class="section_title ">
+               <div class="float-text">
+                  <h1> Photo Gallery </h1>
+               </div>
+               <h1>Checkout Our Gallery</h1>
             </div>
-            <h1>Checkout Our Gallery</h1>
          </div>
-      </div>
       </div>
       <div class="row">
          <div class="col-lg-8">

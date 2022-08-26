@@ -21,8 +21,8 @@
       <div class="row">
          <div class="col-lg-6 col-12">
             <div class="images-column ">
-               <figure class="image-2 pr-lg-5 pr-0"><img src="images/about/about01.JPG" alt="Awesome Image"></figure>
-               <figure class="image-3"><img src="images/about/about02.JPG" alt="Awesome Image"></figure>
+               <figure class="image-2 pr-lg-5 pr-0"><img src="images/about/about01.jpg" alt="Awesome Image"></figure>
+               <figure class="image-3"><img src="images/about/about02.jpg" alt="Awesome Image"></figure>
             </div>
          </div>
          <div class="col-lg-6 col-12">
@@ -32,28 +32,24 @@
                </div>
                <h1>Stay in One of the Top Hotels</h1>
                <div class="readmore__content mb-4">
-                <p>Hotel Mudita is located in Boudha, a peaceful and extremely characteristic area of Kathmandu Valley, the center of Tibetan culture. With the influx of the Buddhist population in Boudha, the city now hosts over 50 Buddhist Gompos (monasteries), perfect for tourists and spiritual practitioners alike.
-
-               The hotel is just a stone’s throw away from the Boudhanath Stupa, a UNESCO World Heritage Site that dominates the skyline, and is considered one of the largest Buddhist shrines in the world.
-
-               Also, within a 15 minute walk is the Pashupatinath Temple, another UNESCO World Heritage site erected in the 15th century by Lichhavi King Shupuspa. This sacred Hindu temple is known to be the oldest in Kathmandu, the reason for its wide popularity.
-
-               Since it is just 2.5 km away from the Tribhuvan International Airport and just 20 minutes away from other major cities in Kathmandu, Hotel Mudita, with its delicately designed rooms with modern décor and fully-furnished service apartments, cater to tourists looking to immerse themselves in the extraordinary beauty of the city, as well as travellers hoping to stay longer to experience a more spiritual journey.
-
-               For the convenience and pleasure of our guests, we provide amenities like air conditioning, flat-screen TV, electric kettle, and high-speed internet in every room. We also offer large suite rooms with a sofa seating area, a minibar, and a view of the Stupa from your private balcony. A business center and convention hall is available for meetings and events, and a multi-cuisine restaurant serving an all-inclusive continental breakfast. The hotel also boasts of its astonishing and unobstructed view of the Boudhanath Stupa from its roof top, where guests can watch the sunset and relax at the end of the day.
-
-               Lastly, the staff of Hotel Mudita offers an attentive and personalized service, and is always available to make sure all guests have a comfortable stay and an unforgettable experience as they enjoy the wonders of Kathmandu.</p>
+                  <p>Hotel Mudita is located in Boudha, a peaceful and extremely characteristic area of Kathmandu Valley, the center of Tibetan culture. With the influx of the Buddhist population in Boudha, the city now hosts over 50 Buddhist Gompos (monasteries), perfect for tourists and spiritual practitioners alike.
+                     The hotel is just a stone’s throw away from the Boudhanath Stupa, a UNESCO World Heritage Site that dominates the skyline, and is considered one of the largest Buddhist shrines in the world.
+                     Also, within a 15 minute walk is the Pashupatinath Temple, another UNESCO World Heritage site erected in the 15th century by Lichhavi King Shupuspa. This sacred Hindu temple is known to be the oldest in Kathmandu, the reason for its wide popularity.
+                     Since it is just 2.5 km away from the Tribhuvan International Airport and just 20 minutes away from other major cities in Kathmandu, Hotel Mudita, with its delicately designed rooms with modern décor and fully-furnished service apartments, cater to tourists looking to immerse themselves in the extraordinary beauty of the city, as well as travellers hoping to stay longer to experience a more spiritual journey.
+                     For the convenience and pleasure of our guests, we provide amenities like air conditioning, flat-screen TV, electric kettle, and high-speed internet in every room. We also offer large suite rooms with a sofa seating area, a minibar, and a view of the Stupa from your private balcony. A business center and convention hall is available for meetings and events, and a multi-cuisine restaurant serving an all-inclusive continental breakfast. The hotel also boasts of its astonishing and unobstructed view of the Boudhanath Stupa from its roof top, where guests can watch the sunset and relax at the end of the day.
+                     Lastly, the staff of Hotel Mudita offers an attentive and personalized service, and is always available to make sure all guests have a comfortable stay and an unforgettable experience as they enjoy the wonders of Kathmandu.
+                  </p>
                </div>
                <button class="readmore__toggle custom-btn theme_btn border-0 mt-3 " role="switch" aria-checked="true">
                Show more
                </button>
             </div>
-            <figure class="image position-relative d-lg-block d-none"><img src="images/about/about03.JPG" alt="Awesome Image"></figure>
+            <figure class="image position-relative d-lg-block d-none"><img src="images/about/about03.jpg" alt="Awesome Image"></figure>
          </div>
       </div>
    </div>
 </section>
-<section class="about_bg_img padding img_bg position-relative" style="background-image: url(./images/about/about_bg.JPG);">
+<section class="about_bg_img padding img_bg position-relative" style="background-image: url(./images/about/about_bg.jpg);">
    <div class="container">
       <div class="row">
          <div class="col-md-3 col-6 text-center mb-md-0 mb-3">
@@ -66,29 +62,27 @@
          <div class="col-md-3 col-6 text-center mb-md-0 mb-3">
             <div id="counter-box" class="text-center text-white">
                <h3><span class="counter" data-number="
-            2340"></span></h3>
+                  2340"></span></h3>
                <h5>STAFFS</h5>
             </div>
          </div>
          <div class="col-md-3 col-6 text-center mb-md-0 mb-3">
             <div id="counter-box" class="text-center text-white">
                <h3><span class="counter" data-number="
-            132"></span></h3>
+                  132"></span></h3>
                <h5>BARS</h5>
             </div>
          </div>
          <div class="col-md-3 col-6 text-center mb-md-0 mb-3">
             <div id="counter-box" class="text-center text-white">
                <h3><span class="counter" data-number="
-               100"></span></h3>
+                  100"></span></h3>
                <h5>POOLS</h5>
             </div>
          </div>
-        
       </div>
    </div>
 </section>
-
 <section id="room_section" class="room_innerpage buddha_round yellow_bg padding  position-relative">
    <div class="container">
       <div class="col-md-12">
@@ -119,8 +113,6 @@
                <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
                   <strong>$15</strong>
                   <small>Night</small>
-                  
-                  
                </div>
             </div>
          </div>
@@ -140,11 +132,9 @@
                      </div>
                   </div>
                </div>
-             <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+               <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
                   <strong>$15</strong>
                   <small>Night</small>
-                  
-                  
                </div>
             </div>
          </div>
@@ -164,11 +154,9 @@
                      </div>
                   </div>
                </div>
-             <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+               <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
                   <strong>$15</strong>
                   <small>Night</small>
-                  
-                  
                </div>
             </div>
          </div>
@@ -188,11 +176,9 @@
                      </div>
                   </div>
                </div>
-             <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
+               <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
                   <strong>$15</strong>
                   <small>Night</small>
-                  
-                  
                </div>
             </div>
          </div>
@@ -215,8 +201,6 @@
                <div class="price_block d-flex flex-column justify-content-center align-items-center text-white">
                   <strong>$15</strong>
                   <small>Night</small>
-                  
-                  
                </div>
             </div>
          </div>
@@ -235,13 +219,12 @@
             <div class="contact-info d-flex flex-column justify-content-center h-100 text-white py-lg-0 py-5">
                <div class="title">
                   <p>Information</p>
-                  <h2>Contact Us</h2>
+                  <h2>Contact</h2>
                </div>
                <div class="con-address">
                   <div class="city-name">
                      <span>Boudhadwar Marga, Boudha Kathmandu </span>
                   </div>
-                 
                   <div class="email mb-3 text-white">
                      <strong>Email:</strong class=""> info@hotelmudita.com
                   </div>

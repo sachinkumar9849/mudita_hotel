@@ -15,18 +15,18 @@
       <div class="row pt-2">
          <div class="col-md-4">
             <div class="text-lg-left text-center">
-            <small> Copyright © 2019 - 2022 Hotel Mudita </small>
+               <small> Copyright © 2019 - 2022 Hotel Mudita </small>
             </div>
          </div>
          <div class="col-md-4 ">
-           <div class="text-center py-md-0 py-3">
-           <p>
-               <a class="pr-2 " href="https://www.facebook.com/ " target="_blank "><i class="icon_footer fa fa-facebook " aria-hidden="true"></i></a>
-               <a class="pr-2 " href="http://www.instagram.com " target="_blank "><i class="icon_footer fa fa-instagram " aria-hidden="true"></i></a>
-               <a class="pr-2 " href="http://www.twitter.com " target="_blank "><i class="icon_footer fa fa-twitter " aria-hidden="true"></i></a>
-               <a class=" " href="http://www.youtube.com " target="_blank "><i class="icon_footer fa fa-youtube " aria-hidden="true"></i></a>
-            </p>
-           </div>
+            <div class="text-center py-md-0 py-3">
+               <p>
+                  <a class="pr-2 " href="https://www.facebook.com/ " target="_blank "><i class="icon_footer fa fa-facebook " aria-hidden="true"></i></a>
+                  <a class="pr-2 " href="http://www.instagram.com " target="_blank "><i class="icon_footer fa fa-instagram " aria-hidden="true"></i></a>
+                  <a class="pr-2 " href="http://www.twitter.com " target="_blank "><i class="icon_footer fa fa-twitter " aria-hidden="true"></i></a>
+                  <a class=" " href="http://www.youtube.com " target="_blank "><i class="icon_footer fa fa-youtube " aria-hidden="true"></i></a>
+               </p>
+            </div>
          </div>
          <div class="col-md-4">
             <div class="company_name text-lg-right text-center">
@@ -46,6 +46,5 @@
 <script src="js/wow.js"></script>
 <script src="js/font-awesom.js "></script>
 <script src="js/main.js"></script>
-
 </body>
-</html>       
+</html>
